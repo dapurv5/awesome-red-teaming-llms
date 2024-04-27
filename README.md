@@ -1,5 +1,5 @@
 <div align="center">
-	<img width="500" height="350" src="OctoColorLine@300x.png" alt="Red-Teaming LLMs">
+	<img width="300" height="300" src="OctoColorLine@300x.png" alt="Red-Teaming LLMs">
 </div>
 
 
