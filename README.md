@@ -14,7 +14,8 @@
 ### Direct Attack
 
 #### Automated Attacks
-- [A Wolf in Sheep's Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily](A Wolf in Sheep's Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily)
+- [A Wolf in Sheep's Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily](https://www.semanticscholar.org/paper/A-Wolf-in-Sheep's-Clothing%3A-Generalized-Nested-can-Ding-Kuang/c4ff1be5c254b60b96b7455eefcc4ec9583f82ed)
+-
 
 ##### Transferable Attacks
 
