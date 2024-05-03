@@ -45,6 +45,12 @@
 - [Privacy Backdoors: Stealing Data with Corrupted Pretrained Models](https://www.semanticscholar.org/paper/Privacy-Backdoors%3A-Stealing-Data-with-Corrupted-Feng-Tram%C3%A8r/fe44bd072c2325eaa750990d148b27e42b7eb1d2)
 
 #### Alignment Erasure
+- [Removing RLHF Protections in GPT-4 via Fine-Tuning](https://www.semanticscholar.org/paper/Removing-RLHF-Protections-in-GPT-4-via-Fine-Tuning-Zhan-Fang/ccae9fcb1f344e56a3f7cb05a4b49a6e658f9dd2)
+- [Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!](https://arxiv.org/abs/2310.03693)
+- [LoRA Fine-tuning Efficiently Undoes Safety Training in Llama 2-Chat 70B](https://www.semanticscholar.org/paper/LoRA-Fine-tuning-Efficiently-Undoes-Safety-Training-Lermen-Rogers-Smith/d1b5151231a790c7a60f620e21860593dae9a1c5)
+- [Stealthy and Persistent Unalignment on Large Language Models via Backdoor Injections](https://www.semanticscholar.org/paper/Stealthy-and-Persistent-Unalignment-on-Large-Models-Cao-Cao/b88535ea9368753c91967bb7e997c06b1ac6aaec)
+- [Language Model Unalignment: Parametric Red-Teaming to Expose Hidden Harms and Biases](https://arxiv.org/abs/2310.14303)
+- [Large Language Model Unlearning](https://arxiv.org/pdf/2310.10683)
 
 #### Gradient-Based Attacks
 - [Gradient-Based Language Model Red Teaming](https://www.semanticscholar.org/paper/Gradient-Based-Language-Model-Red-Teaming-Wichers-Denison/409e0616a0fc02dd0ee8d5ae061944a98e9bd5a9)
