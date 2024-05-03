@@ -22,8 +22,27 @@
 #### Side Channel Attacks
 
 ### Infusion Attack
+- [Not What You've Signed Up For: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://www.semanticscholar.org/paper/Not-What-You've-Signed-Up-For%3A-Compromising-with-Greshake-Abdelnabi/705e49afd92130f2bc1e0d4d0b1f6cb14e88803f)
+
+
 
 ### Inference Attack
+
+#### Latent Space Attack
+- [Backdoor Activation Attack: Attack Large Language Models using Activation Steering for Safety-Alignment](https://www.semanticscholar.org/paper/Backdoor-Activation-Attack%3A-Attack-Large-Language-Wang-Shu/d030be820dd5e4739461f246ce248fba2df33f0a)
+- [Test-Time Backdoor Attacks on Multimodal Large Language Models](https://www.semanticscholar.org/paper/Test-Time-Backdoor-Attacks-on-Multimodal-Large-Lu-Pang/9f12a20f62238f5206520e52e83e2ccd1da17f03)
+- [Open the Pandora's Box of LLMs: Jailbreaking LLMs through Representation Engineering](https://www.semanticscholar.org/paper/Open-the-Pandora's-Box-of-LLMs%3A-Jailbreaking-LLMs-Li-Zheng/b843fd79f0ddfd1a3e5ff3bd182715429e28aa35)
+- [Weak-to-Strong Jailbreaking on Large Language Models](https://www.semanticscholar.org/paper/Weak-to-Strong-Jailbreaking-on-Large-Language-Zhao-Yang/88d59e31575f5b3dd88a2c2033b55f628c2adbc9)
+- [Soft Prompt Threats: Attacking Safety Alignment and Unlearning in Open-Source LLMs through the Embedding Space](https://www.semanticscholar.org/paper/Soft-Prompt-Threats%3A-Attacking-Safety-Alignment-and-Schwinn-Dobre/9a7187386eb6ea93d41d7e2baa88accedc702fc2)
+
+#### Decoding Attack
+- [Fast Adversarial Attacks on Language Models In One GPU Minute](https://www.semanticscholar.org/paper/Fast-Adversarial-Attacks-on-Language-Models-In-One-Sadasivan-Saha/e519699816d358783f41d4bd50fd3465d9fa51bd)
+
+#### Tokenizer Attack
+- [Training-free Lexical Backdoor Attacks on Language Models](https://www.semanticscholar.org/paper/Training-free-Lexical-Backdoor-Attacks-on-Language-Huang-Zhuo/5d896fb2f0da16060f22ed43e582464605237f28)
+
+
+
 
 ### Training Time Attack
 
