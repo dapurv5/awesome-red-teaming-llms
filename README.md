@@ -27,3 +27,15 @@
 
 ### Training Time Attack
 
+#### Backdoor Attack
+
+##### Preference Tuning Stage
+
+##### Instruction Tuning Stage
+
+##### Adapters and Model Weights
+
+#### Alignment Erasure
+
+#### Gradient-Based Attacks
+
