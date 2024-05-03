@@ -1,9 +1,7 @@
 <div align="center">
+	<h1>Red Teaming Attacks</h1>
 	<img width="300" height="300" src="OctoColorLine@300x.png" alt="Red-Teaming LLMs">
 </div>
-
-
-# Red-Teaming Attacks
 
 
 ### Jailbreak Attack
