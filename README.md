@@ -26,7 +26,21 @@
 
 #### Automated Attacks
 - [A Wolf in Sheep's Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily](https://www.semanticscholar.org/paper/A-Wolf-in-Sheep's-Clothing%3A-Generalized-Nested-can-Ding-Kuang/c4ff1be5c254b60b96b7455eefcc4ec9583f82ed)
--
+- [FLIRT: Feedback Loop In-context Red Teaming](https://arxiv.org/pdf/2308.04265)
+- [Jailbreaking Black Box Large Language Models in Twenty Queries](https://www.semanticscholar.org/paper/Jailbreaking-Black-Box-Large-Language-Models-in-Chao-Robey/4637f79ddfaf923ce569996ffa5b6cda1996faa1)
+- [Red Teaming Language Models with Language Models](https://aclanthology.org/2022.emnlp-main.225/)
+- [Tree of Attacks: Jailbreaking Black-Box LLMs Automatically](https://www.semanticscholar.org/paper/Tree-of-Attacks%3A-Jailbreaking-Black-Box-LLMs-Mehrotra-Zampetakis/14e8cf5a5e6a7b35e618b08f5cf06f572b3a54e0)
+- [Leveraging the Context through Multi-Round Interactions for Jailbreaking Attacks](https://www.semanticscholar.org/paper/Leveraging-the-Context-through-Multi-Round-for-Cheng-Georgopoulos/1b95053af03b5a06809a4967c6cf5ca137bbcde4)
+- [Cognitive Overload: Jailbreaking Large Language Models with Overloaded Logical Thinking](https://www.semanticscholar.org/paper/Cognitive-Overload%3A-Jailbreaking-Large-Language-Xu-Wang/54c9a97637822c9e1956b1ec70b0c9a0f2338d2c)
+- [GPT-4 Is Too Smart To Be Safe: Stealthy Chat with LLMs via Cipher](https://www.semanticscholar.org/paper/GPT-4-Is-Too-Smart-To-Be-Safe%3A-Stealthy-Chat-with-Yuan-Jiao/897940fb5dd4d739b88c4659c4565d05f48d06b8)
+- [GPTFUZZER: Red Teaming Large Language Models with Auto-Generated Jailbreak Prompts](https://www.semanticscholar.org/paper/GPTFUZZER%3A-Red-Teaming-Large-Language-Models-with-Yu-Lin/d4177489596748e43aa571f59556097f2cc4c8be)
+- [AART: AI-Assisted Red-Teaming with Diverse Data Generation for New LLM-powered Applications](https://aclanthology.org/2023.emnlp-industry.37/)
+- [Prompt Injection attack against LLM-integrated Applications](https://arxiv.org/pdf/2306.05499)
+- [Making Them Ask and Answer: Jailbreaking Large Language Models in Few Queries via Disguise and Reconstruction](https://www.semanticscholar.org/paper/Making-Them-Ask-and-Answer%3A-Jailbreaking-Large-in-Liu-Zhang/f6fa682b62c7981402336ca57da1196ccbf3fc54)
+- [MART: Improving LLM Safety with Multi-round Automatic Red-Teaming](https://www.semanticscholar.org/paper/MART%3A-Improving-LLM-Safety-with-Multi-round-Ge-Zhou/709af143f78bc62413c50ea1a7ee75b0702c4f59)
+- [Query-Efficient Black-Box Red Teaming via Bayesian Optimization](https://www.semanticscholar.org/paper/Query-Efficient-Black-Box-Red-Teaming-via-Bayesian-Lee-Lee/cc3bfea86ed457079363598ae38af11dd3b00e47)
+- [Make Them Spill the Beans! Coercive Knowledge Extraction from (Production) LLMs](https://www.semanticscholar.org/paper/Make-Them-Spill-the-Beans!-Coercive-Knowledge-from-Zhang-Shen/89641466373aa9ce2976e3f384b0791a7bd0931c)
+- [CodeChameleon: Personalized Encryption Framework for Jailbreaking Large Language Models](https://www.semanticscholar.org/paper/CodeChameleon%3A-Personalized-Encryption-Framework-Lv-Wang/72f51c3ef967f7905e3194296cf6fd8337b1a437)
 
 ##### Transferable Attacks
 
