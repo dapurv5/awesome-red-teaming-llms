@@ -44,6 +44,18 @@
 
 ##### Transferable Attacks
 
+[Universal Adversarial Triggers Are Not Universal](https://arxiv.org/pdf/2404.16020)
+[Universal and Transferable Adversarial Attacks on Aligned Language Models](https://www.semanticscholar.org/paper/Universal-and-Transferable-Adversarial-Attacks-on-Zou-Wang/47030369e97cc44d4b2e3cf1be85da0fd134904a)
+[ACG: Accelerated Coordinate Gradient](https://blog.haizelabs.com/posts/acg/)
+[PAL: Proxy-Guided Black-Box Attack on Large Language Models](https://www.semanticscholar.org/paper/PAL%3A-Proxy-Guided-Black-Box-Attack-on-Large-Models-Sitawarin-Mu/ef5da08aad746173b7ddf589068c6abf00205fea)
+[AutoDAN: Interpretable Gradient-Based Adversarial Attacks on Large Language Models](https://www.semanticscholar.org/paper/AutoDAN%3A-Interpretable-Gradient-Based-Adversarial-Zhu-Zhang/1227c2fcb8437441b7d72a29a4bc9eef1f5275d2)
+[Open Sesame! Universal Black Box Jailbreaking of Large Language Models](https://www.semanticscholar.org/paper/Open-Sesame!-Universal-Black-Box-Jailbreaking-of-Lapid-Langberg/f846c0c59608f0a8ff18f4c52adba87bf49dc229)
+[Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks](https://www.semanticscholar.org/paper/Jailbreaking-Leading-Safety-Aligned-LLMs-with-Andriushchenko-Croce/88d5634a52645f6b05a03536be1f26a2b9bba232)
+[MASTERKEY: Automated Jailbreaking of Large Language Model Chatbots](https://www.semanticscholar.org/paper/MASTERKEY%3A-Automated-Jailbreaking-of-Large-Language-Deng-Liu/6987c95f7054d2653178ac93df52aa3c0b99fcf5)
+[AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models](https://arxiv.org/abs/2310.04451)
+[AmpleGCG: Learning a Universal and Transferable Generative Model of Adversarial Suffixes for Jailbreaking Both Open and Closed LLMs](https://www.semanticscholar.org/paper/AmpleGCG%3A-Learning-a-Universal-and-Transferable-of-Liao-Sun/4ad33969188555b8303b375e18f5c117a68387c6)
+
+
 #### Inversion Attacks
 
 #### Side Channel Attacks
@@ -92,6 +104,7 @@
 
 #### Alignment Erasure
 - [Removing RLHF Protections in GPT-4 via Fine-Tuning](https://www.semanticscholar.org/paper/Removing-RLHF-Protections-in-GPT-4-via-Fine-Tuning-Zhan-Fang/ccae9fcb1f344e56a3f7cb05a4b49a6e658f9dd2)
+- [Shadow Alignment: The Ease of Subverting Safely-Aligned Language Models](https://www.semanticscholar.org/paper/Shadow-Alignment%3A-The-Ease-of-Subverting-Language-Yang-Wang/84b7c486c56bd3880cb8eb01de9ae90ba3ebdaed)
 - [Fine-tuning Aligned Language Models Compromises Safety, Even When Users Do Not Intend To!](https://arxiv.org/abs/2310.03693)
 - [LoRA Fine-tuning Efficiently Undoes Safety Training in Llama 2-Chat 70B](https://www.semanticscholar.org/paper/LoRA-Fine-tuning-Efficiently-Undoes-Safety-Training-Lermen-Rogers-Smith/d1b5151231a790c7a60f620e21860593dae9a1c5)
 - [Stealthy and Persistent Unalignment on Large Language Models via Backdoor Injections](https://www.semanticscholar.org/paper/Stealthy-and-Persistent-Unalignment-on-Large-Models-Cao-Cao/b88535ea9368753c91967bb7e997c06b1ac6aaec)
