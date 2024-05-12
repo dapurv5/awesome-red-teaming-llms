@@ -44,7 +44,6 @@
 
 ##### Transferable Attacks
 
-- [Universal Adversarial Triggers Are Not Universal](https://arxiv.org/pdf/2404.16020)
 - [Universal and Transferable Adversarial Attacks on Aligned Language Models](https://www.semanticscholar.org/paper/Universal-and-Transferable-Adversarial-Attacks-on-Zou-Wang/47030369e97cc44d4b2e3cf1be85da0fd134904a)
 - [ACG: Accelerated Coordinate Gradient](https://blog.haizelabs.com/posts/acg/)
 - [PAL: Proxy-Guided Black-Box Attack on Large Language Models](https://www.semanticscholar.org/paper/PAL%3A-Proxy-Guided-Black-Box-Attack-on-Large-Models-Sitawarin-Mu/ef5da08aad746173b7ddf589068c6abf00205fea)
@@ -54,9 +53,23 @@
 - [MASTERKEY: Automated Jailbreaking of Large Language Model Chatbots](https://www.semanticscholar.org/paper/MASTERKEY%3A-Automated-Jailbreaking-of-Large-Language-Deng-Liu/6987c95f7054d2653178ac93df52aa3c0b99fcf5)
 - [AutoDAN: Generating Stealthy Jailbreak Prompts on Aligned Large Language Models](https://arxiv.org/abs/2310.04451)
 - [AmpleGCG: Learning a Universal and Transferable Generative Model of Adversarial Suffixes for Jailbreaking Both Open and Closed LLMs](https://www.semanticscholar.org/paper/AmpleGCG%3A-Learning-a-Universal-and-Transferable-of-Liao-Sun/4ad33969188555b8303b375e18f5c117a68387c6)
+- [Universal Adversarial Triggers Are Not Universal](https://arxiv.org/pdf/2404.16020)
 
 
 #### Inversion Attacks
+
+##### Data Inversion
+- [Scalable Extraction of Training Data from (Production) Language Models](https://www.semanticscholar.org/paper/Scalable-Extraction-of-Training-Data-from-Language-Nasr-Carlini/fc7ee1828030a818f52518022a39f6a3ada60222)
+- [Explore, Establish, Exploit: Red Teaming Language Models from Scratch](https://www.semanticscholar.org/paper/Explore%2C-Establish%2C-Exploit%3A-Red-Teaming-Language-Casper-Lin/1db819afb3604c4bfd1e5a0cb2ee9ab9dec52642)
+- [Extracting Training Data from Large Language Models](https://arxiv.org/abs/2012.07805)
+- [Bag of Tricks for Training Data Extraction from Language Models](https://www.semanticscholar.org/paper/Bag-of-Tricks-for-Training-Data-Extraction-from-Yu-Pang/0abd29e67b1e52e922660c315bcdeedd9b1eab7e)
+- [Controlling the Extraction of Memorized Data from Large Language Models via Prompt-Tuning](https://www.semanticscholar.org/paper/Controlling-the-Extraction-of-Memorized-Data-from-Ozdayi-Peris/e4bbcf6c84bfcdbeafecf75f2b0b98eaa1020e63)
+- [Practical Membership Inference Attacks against Fine-tuned Large Language Models via Self-prompt Calibration](https://www.semanticscholar.org/paper/Practical-Membership-Inference-Attacks-against-via-Fu-Wang/6bf34b4a1937ca5ae692594eda880ff671b8ee57)
+- [Membership Inference Attacks against Language Models via Neighbourhood Comparison](https://aclanthology.org/2023.findings-acl.719/)
+
+##### Model Inversion
+
+##### Embedding Inversion
 
 #### Side Channel Attacks
 
@@ -123,4 +136,5 @@
 - [Automatic and Universal Prompt Injection Attacks against Large Language Models](https://www.semanticscholar.org/paper/Automatic-and-Universal-Prompt-Injection-Attacks-Liu-Yu/0a6a350653369dc92fde4cf9992951534ed1f169)
 - [Unveiling the Implicit Toxicity in Large Language Models](https://aclanthology.org/2023.emnlp-main.84/)
 - [Hijacking Large Language Models via Adversarial In-Context Learning](https://www.semanticscholar.org/paper/Hijacking-Large-Language-Models-via-Adversarial-Qiang-Zhou/6d68b5c1eaf03aba857476a9825acf3e48edd840)
+- [Boosting Jailbreak Attack with Momentum](https://www.semanticscholar.org/paper/Boosting-Jailbreak-Attack-with-Momentum-Zhang-Wei/9f2ea0e770e154bb00b2276596afd148a7facfe8)
 
