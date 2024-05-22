@@ -68,8 +68,22 @@
 - [Membership Inference Attacks against Language Models via Neighbourhood Comparison](https://aclanthology.org/2023.findings-acl.719/)
 
 ##### Model Inversion
+- [A Methodology for Formalizing Model-Inversion Attacks](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7536387)
+- [Sok: Model inversion attack landscape: Taxonomy, challenges, and fu- ture roadmap.](https://ieeexplore.ieee.org/document/10221914)
+- [Model Inversion Attacks that Exploit Confidence Information and Basic Countermeasures](https://dl.acm.org/doi/pdf/10.1145/2810103.2813677)
+- [Model Leeching: An Extraction Attack Targeting LLMs](https://www.semanticscholar.org/paper/Model-Leeching%3A-An-Extraction-Attack-Targeting-LLMs-Birch-Hackett/ab2066233ea2da540f44118d989d66db5687752a)
+- [Killing One Bird with Two Stones: Model Extraction and Attribute Inference Attacks against BERT-based APIs](https://www.semanticscholar.org/paper/Killing-One-Bird-with-Two-Stones%3A-Model-Extraction-Chen-He/373936d00c4a357579c4d375de0ce439e4e54d5f)
+- [Model Extraction and Adversarial Transferability, Your BERT is Vulnerable!](https://www.semanticscholar.org/paper/Model-Extraction-and-Adversarial-Transferability%2C-He-Lyu/16a8e329c06b4c6f61762da7fa77a84bf3e12dca)
+
+###### Prompt Inversion
+- [Language Model Inversion](https://arxiv.org/abs/2311.13647)
+- [Effective Prompt Extraction from Language Models](https://www.semanticscholar.org/paper/Effective-Prompt-Extraction-from-Language-Models-Zhang-Ippolito/b9df0d4631f9fab1432c152765e243ae4cd667f4)
+- [Jailbreaking GPT-4V via Self-Adversarial Attacks with System Prompts](https://arxiv.org/abs/2311.09127)
 
 ##### Embedding Inversion
+- [Text Embedding Inversion Security for Multilingual Language Models](https://www.semanticscholar.org/paper/Text-Embedding-Inversion-Security-for-Multilingual-Chen-Lent/3ff5bc7c832da386211f6231058994b67ae6d600)
+- [Sentence Embedding Leaks More Information than You Expect: Generative Embedding Inversion Attack to Recover the Whole Sentence](https://aclanthology.org/2023.findings-acl.881/)
+- [Text Embeddings Reveal (Almost) As Much As Text](https://www.semanticscholar.org/paper/Text-Embeddings-Reveal-(Almost)-As-Much-As-Text-Morris-Kuleshov/d4c4f46b63e4812f0268d99b6528aa6a0c404377)
 
 #### Side Channel Attacks
 
