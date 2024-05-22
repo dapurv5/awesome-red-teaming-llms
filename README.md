@@ -86,6 +86,11 @@
 - [Text Embeddings Reveal (Almost) As Much As Text](https://www.semanticscholar.org/paper/Text-Embeddings-Reveal-(Almost)-As-Much-As-Text-Morris-Kuleshov/d4c4f46b63e4812f0268d99b6528aa6a0c404377)
 
 #### Side Channel Attacks
+- [Catastrophic Jailbreak of Open-source LLMs via Exploiting Generation](https://www.semanticscholar.org/paper/Catastrophic-Jailbreak-of-Open-source-LLMs-via-Huang-Gupta/ac27dd71af3ee93e1129482ceececbae7dd0d0e8)
+- [What Was Your Prompt? A Remote Keylogging Attack on AI Assistants](https://www.semanticscholar.org/paper/What-Was-Your-Prompt-A-Remote-Keylogging-Attack-on-Weiss-Ayzenshteyn/bb5393126610ab89983b29d8934b45f67a16241d)
+- [Privacy Side Channels in Machine Learning Systems](https://www.semanticscholar.org/paper/Privacy-Side-Channels-in-Machine-Learning-Systems-Debenedetti-Severi/d43af65e38afebd68797683c6e01d02bb1ba7963)
+- [Stealing Part of a Production Language Model](https://www.semanticscholar.org/paper/Stealing-Part-of-a-Production-Language-Model-Carlini-Paleka/b232f468de0b1d4ff1c2dfe5dbb03ec093160c48)
+- [Logits of API-Protected LLMs Leak Proprietary Information](https://www.semanticscholar.org/paper/Logits-of-API-Protected-LLMs-Leak-Proprietary-Finlayson-Ren/5f2b88d1c0d98f3f2973221657ca5237a185cc37)
 
 ### Infusion Attack
 - [Not What You've Signed Up For: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://www.semanticscholar.org/paper/Not-What-You've-Signed-Up-For%3A-Compromising-with-Greshake-Abdelnabi/705e49afd92130f2bc1e0d4d0b1f6cb14e88803f)
