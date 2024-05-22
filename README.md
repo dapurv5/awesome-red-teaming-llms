@@ -94,6 +94,12 @@
 
 ### Infusion Attack
 - [Not What You've Signed Up For: Compromising Real-World LLM-Integrated Applications with Indirect Prompt Injection](https://www.semanticscholar.org/paper/Not-What-You've-Signed-Up-For%3A-Compromising-with-Greshake-Abdelnabi/705e49afd92130f2bc1e0d4d0b1f6cb14e88803f)
+- [Adversarial Demonstration Attacks on Large Language Models](https://www.semanticscholar.org/paper/Adversarial-Demonstration-Attacks-on-Large-Language-Wang-Liu/1abfc211793c683972ded8d3268475e3ee7a88b0)
+- [Poisoning Web-Scale Training Datasets is Practical](https://arxiv.org/abs/2302.10149)
+- [Universal Vulnerabilities in Large Language Models: In-context Learning Backdoor Attacks](https://www.semanticscholar.org/paper/Universal-Vulnerabilities-in-Large-Language-Models%3A-Zhao-Jia/ce09d7a0bf35ee6a2d857c472efd8d480b9fa122)
+- [BadChain: Backdoor Chain-of-Thought Prompting for Large Language Models](https://www.semanticscholar.org/paper/BadChain%3A-Backdoor-Chain-of-Thought-Prompting-for-Xiang-Jiang/f8d7b0245480646abd257bac60ee37804981a0d7)
+- [Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations](https://www.semanticscholar.org/paper/Jailbreak-and-Guard-Aligned-Language-Models-with-Wei-Wang/6b135e922a0c673aeb0b05c5aeecdb6c794791c6)
+- [Many-shot jailbreaking](https://www.anthropic.com/research/many-shot-jailbreaking)
 
 
 
