@@ -1,8 +1,13 @@
 <div align="center">
 	<h1>Red Teaming Attacks</h1>
-	<img width="300" height="300" src="OctoColorLine@300x.png" alt="Red-Teaming LLMs">
+	<img width="200" height="200" src="LockColorLine300x.png" alt="Red-Teaming LLMs">
 </div>
 
+<br>
+
+[![Twitter Thread](https://img.shields.io/badge/Thread-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/verma_apurv5/status/1815751139729519011)
+[![arXiv](https://img.shields.io/badge/arXiv-2404.09562-b31b1b?style=for-the-badge&logo=arXiv&logoColor=white)](https://arxiv.org/abs/2407.14937)
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ### Jailbreak Attack
 
@@ -163,3 +168,17 @@
 - [Hijacking Large Language Models via Adversarial In-Context Learning](https://www.semanticscholar.org/paper/Hijacking-Large-Language-Models-via-Adversarial-Qiang-Zhou/6d68b5c1eaf03aba857476a9825acf3e48edd840)
 - [Boosting Jailbreak Attack with Momentum](https://www.semanticscholar.org/paper/Boosting-Jailbreak-Attack-with-Momentum-Zhang-Wei/9f2ea0e770e154bb00b2276596afd148a7facfe8)
 
+
+----
+
+Please open a PR to add your paper to our taxonomy. We also plan to add the defense papers here soon !
+
+#### How to Cite
+```
+@inproceedings{Verma2024OperationalizingAT,
+  title={Operationalizing a Threat Model for Red-Teaming Large Language Models (LLMs)},
+  author={Apurv Verma and Satyapriya Krishna and Sebastian Gehrmann and Madhavan Seshadri and Anu Pradhan and Tom Ault and Leslie Barrett and David Rabinowitz and John Doucette and Nhathai Phan},
+  year={2024},
+  url={https://api.semanticscholar.org/CorpusID:271328358}
+}
+```
