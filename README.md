@@ -173,7 +173,7 @@
 
 Please open a PR to add your paper to our taxonomy. We also plan to add the defense papers here soon !
 
-#### How to Cite
+#### BibTex
 ```
 @inproceedings{Verma2024OperationalizingAT,
   title={Operationalizing a Threat Model for Red-Teaming Large Language Models (LLMs)},
