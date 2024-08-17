@@ -1,9 +1,11 @@
 <div align="center">
-	<h1>Red Teaming Attacks</h1>
 	<img width="200" height="200" src="LockColorLine300x.png" alt="Red-Teaming LLMs">
+  <h1> Red Teaming LLMs </h1>
 </div>
 
 <br>
+
+## Attacks
 
 [![Twitter Thread](https://img.shields.io/badge/Thread-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/verma_apurv5/status/1815751139729519011)
 [![arXiv](https://img.shields.io/badge/arXiv-2404.09562-b31b1b?style=for-the-badge&logo=arXiv&logoColor=white)](https://arxiv.org/abs/2407.14937)
