@@ -183,10 +183,10 @@ Please open a PR to add your paper to our taxonomy.
 
 #### BibTex
 ```
-@inproceedings{Verma2024OperationalizingAT,
+@article{verma2024operationalizing,
   title={Operationalizing a Threat Model for Red-Teaming Large Language Models (LLMs)},
-  author={Apurv Verma and Satyapriya Krishna and Sebastian Gehrmann and Madhavan Seshadri and Anu Pradhan and Tom Ault and Leslie Barrett and David Rabinowitz and John Doucette and Nhathai Phan},
-  year={2024},
-  url={https://api.semanticscholar.org/CorpusID:271328358}
+  author={Verma, Apurv and Krishna, Satyapriya and Gehrmann, Sebastian and Seshadri, Madhavan and Pradhan, Anu and Ault, Tom and Barrett, Leslie and Rabinowitz, David and Doucette, John and Phan, NhatHai},
+  journal={arXiv preprint arXiv:2407.14937},
+  year={2024}
 }
 ```
