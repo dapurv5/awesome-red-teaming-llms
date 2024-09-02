@@ -1,6 +1,6 @@
 <div align="center">
 	<img width="200" height="200" src="LockColorLine300x.png" alt="Red-Teaming LLMs">
-  <h1> Red Teaming LLMs </h1>
+  <h1> LLM Red-Teaming </h1>
 
 
 <br>
@@ -10,8 +10,12 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2404.09562-b31b1b?style=for-the-badge&logo=arXiv&logoColor=white)](https://arxiv.org/abs/2407.14937)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+## Attack Surface
+![Attack Surface](attack_dg_v1.png)
 
 ## Attacks
+![Taxonomy](taxonomy.png)
+
 
 ### Jailbreak Attack
 
@@ -174,7 +178,7 @@
 
 
 ## Defenses
-Coming soon !
+![Defenses](defenses.png)
 
 ----
 
