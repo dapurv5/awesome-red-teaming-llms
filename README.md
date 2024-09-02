@@ -11,7 +11,6 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 
-
 ## Attacks
 
 ### Jailbreak Attack
@@ -179,10 +178,11 @@ Coming soon !
 
 ----
 
-Please open a PR to add your paper to our taxonomy.
+If you like our work, please consider citing. If you would like to add your work to our taxonomy please open a pull request.
 
 #### BibTex
-```
+```python
+
 @article{verma2024operationalizing,
   title={Operationalizing a Threat Model for Red-Teaming Large Language Models (LLMs)},
   author={Verma, Apurv and Krishna, Satyapriya and Gehrmann, Sebastian and Seshadri, Madhavan and Pradhan, Anu and Ault, Tom and Barrett, Leslie and Rabinowitz, David and Doucette, John and Phan, NhatHai},
