@@ -19,21 +19,20 @@
 
 ### Jailbreak Attack
 
-- ["Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models](https://www.semanticscholar.org/paper/%22Do-Anything-Now%22%3A-Characterizing-and-Evaluating-on-Shen-Chen/1104d766527dead44a40532e8a89444d9cef5c65)
-- [Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study](https://www.semanticscholar.org/paper/Jailbreaking-ChatGPT-via-Prompt-Engineering%3A-An-Liu-Deng/fc50a6202e2f675604543c1ae4ef22ec74f61ad5)
-- [ChatGPT Jailbreak Reddit](https://www.reddit.com/r/ChatGPTJailbreak/)
-- [Anomalous Tokens](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation)
-- ["Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models](https://www.semanticscholar.org/paper/%22Do-Anything-Now%22%3A-Characterizing-and-Evaluating-on-Shen-Chen/1104d766527dead44a40532e8a89444d9cef5c65)
-- [Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study](https://www.semanticscholar.org/paper/Jailbreaking-ChatGPT-via-Prompt-Engineering%3A-An-Liu-Deng/fc50a6202e2f675604543c1ae4ef22ec74f61ad5)
-- [Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs Through a Global Prompt Hacking Competition](https://aclanthology.org/2023.emnlp-main.302/)
-- [Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks](https://www.semanticscholar.org/paper/Exploiting-Programmatic-Behavior-of-LLMs%3A-Dual-Use-Kang-Li/0cf694b8f85ab2e11d45595de211a15cfbadcd22)
-- [Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks](https://www.semanticscholar.org/paper/Exploiting-Programmatic-Behavior-of-LLMs%3A-Dual-Use-Kang-Li/0cf694b8f85ab2e11d45595de211a15cfbadcd22)
-- [Jailbroken: How Does LLM Safety Training Fail?](https://www.semanticscholar.org/paper/Jailbroken%3A-How-Does-LLM-Safety-Training-Fail-Wei-Haghtalab/929305892d4ddae575a0fc23227a8139f7681632)
-- [Tricking LLMs into Disobedience: Formalizing, Analyzing, and Detecting Jailbreaks](https://arxiv.org/pdf/2305.14965)
-- [Adversarial Prompting in LLMs](https://www.promptingguide.ai/risks/adversarial)
-- [Exploiting Novel GPT-4 APIs](https://www.semanticscholar.org/paper/Exploiting-Novel-GPT-4-APIs-Pelrine-Taufeeque/ac2a659cc6f0e3635a9c1351c9963b47817205fb)
-- [Large Language Models are Vulnerable to Bait-and-Switch Attacks for Generating Harmful Content](https://www.semanticscholar.org/paper/Large-Language-Models-are-Vulnerable-to-Attacks-for-Bianchi-Zou/05e0c57f912cec9597021855bac28306c97e36fd)
-- [Using Hallucinations to Bypass GPT4's Filter](https://www.semanticscholar.org/paper/Using-Hallucinations-to-Bypass-GPT4's-Filter-Lemkin/d6ecc2c23e257108f49ef756147acadbb4ca5678)
+| Title | Link |
+|-------|------|
+| "Do Anything Now": Characterizing and Evaluating In-The-Wild Jailbreak Prompts on Large Language Models | [Link](https://www.semanticscholar.org/paper/%22Do-Anything-Now%22%3A-Characterizing-and-Evaluating-on-Shen-Chen/1104d766527dead44a40532e8a89444d9cef5c65) |
+| Jailbreaking ChatGPT via Prompt Engineering: An Empirical Study | [Link](https://www.semanticscholar.org/paper/Jailbreaking-ChatGPT-via-Prompt-Engineering%3A-An-Liu-Deng/fc50a6202e2f675604543c1ae4ef22ec74f61ad5) |
+| ChatGPT Jailbreak Reddit | [Link](https://www.reddit.com/r/ChatGPTJailbreak/) |
+| Anomalous Tokens | [Link](https://www.lesswrong.com/posts/aPeJE8bSo6rAFoLqg/solidgoldmagikarp-plus-prompt-generation) |
+| Ignore This Title and HackAPrompt: Exposing Systemic Vulnerabilities of LLMs Through a Global Prompt Hacking Competition | [Link](https://aclanthology.org/2023.emnlp-main.302/) |
+| Exploiting Programmatic Behavior of LLMs: Dual-Use Through Standard Security Attacks | [Link](https://www.semanticscholar.org/paper/Exploiting-Programmatic-Behavior-of-LLMs%3A-Dual-Use-Kang-Li/0cf694b8f85ab2e11d45595de211a15cfbadcd22) |
+| Jailbroken: How Does LLM Safety Training Fail? | [Link](https://www.semanticscholar.org/paper/Jailbroken%3A-How-Does-LLM-Safety-Training-Fail-Wei-Haghtalab/929305892d4ddae575a0fc23227a8139f7681632) |
+| Tricking LLMs into Disobedience: Formalizing, Analyzing, and Detecting Jailbreaks | [Link](https://arxiv.org/pdf/2305.14965) |
+| Adversarial Prompting in LLMs | [Link](https://www.promptingguide.ai/risks/adversarial) |
+| Exploiting Novel GPT-4 APIs | [Link](https://www.semanticscholar.org/paper/Exploiting-Novel-GPT-4-APIs-Pelrine-Taufeeque/ac2a659cc6f0e3635a9c1351c9963b47817205fb) |
+| Large Language Models are Vulnerable to Bait-and-Switch Attacks for Generating Harmful Content | [Link](https://www.semanticscholar.org/paper/Large-Language-Models-are-Vulnerable-to-Attacks-for-Bianchi-Zou/05e0c57f912cec9597021855bac28306c97e36fd) |
+| Using Hallucinations to Bypass GPT4's Filter | [Link](https://www.semanticscholar.org/paper/Using-Hallucinations-to-Bypass-GPT4's-Filter-Lemkin/d6ecc2c23e257108f49ef756147acadbb4ca5678) |
 
 ### Direct Attack
 
