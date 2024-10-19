@@ -185,7 +185,7 @@
 If you like our work, please consider citing. If you would like to add your work to our taxonomy please open a pull request.
 
 #### BibTex
-```python
+```bibtex
 
 @article{verma2024operationalizing,
   title={Operationalizing a Threat Model for Red-Teaming Large Language Models (LLMs)},
