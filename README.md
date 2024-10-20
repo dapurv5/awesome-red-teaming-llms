@@ -224,58 +224,8 @@ This comprehensive diagram presents attack vectors in increasing order of requir
 
 
 ## Defenses
-<!-- ![Defenses](defenses.png) -->
+![Defenses](defenses.png)
 
-
-| Study | Category | Short Description | Free | Extrinsic |
-|-------|----------|-------------------|------|-----------|
-| OpenAI Moderations Endpoint | Guardrail | OpenAI Moderations Endpoint | ❌ | ✅ |
-| Perspective API's Toxicity API | Guardrail | Perspective API's Toxicity API | ❌ | ✅ |
-| Llama Guard | Guardrail | Llama Guard | ✅ | ✅ |
-| Guardrails AI Validators | Guardrail | Guardrails AI Validators | ✅ | ✅ |
-| NVIDIA Nemo Guardrail | Guardrail | NVIDIA Nemo Guardrail | ✅ | ✅ |
-| RigorLLM | Guardrail | RigorLLM (Safe Suffix + Prompt Augmentation + Aggregation) | ✅ | ✅ |
-| Adversarial Prompt Shield Classifier | Guardrail | Adversarial Prompt Shield Classifier | ✅ | ✅ |
-| WildGuard | Guardrail | WildGuard | ✅ | ✅ |
-| SmoothLLM | Prompting | SmoothLLM (Prompt Augmentation + Aggregation) | ✅ | ✅ |
-| Self-Reminder | Prompting | Self-Reminder | ✅ | ✅ |
-| Intention Analysis Prompting | Prompting | Intention Analysis Prompting | ✅ | ✅ |
-| Backtranslation | Prompting | Backtranslation | ✅ | ✅ |
-| Safe Suffix | Prompting | Safe Suffix | ✅ | ✅ |
-| Safe Prefix | Prompting | Safe Prefix | ✅ | ✅ |
-| Prompt Augmentation + Auxiliary model | Prompting | Prompt Augmentation + Auxiliary model | ✅ | ✅ |
-| Prompt Augmentation + Aggregation | Prompting | Prompt Augmentation + Aggregation | ✅ | ✅ |
-| Prompt Paraphrasing | Prompting | Prompt Paraphrasing | ✅ | ✅ |
-| Perplexity Based Defense | Prompting | Perplexity Based Defense | ✅ | ✅ |
-| TinyRE | Prompting | Rewrites input prompt to safe prompt using a sentinel model | ✅ | ✅ |
-| Defensive Prompt Programming | Prompting | Safe Suffix/Prefix (Requires access to log-probabilities) | ✅ | ✅ |
-| Information Bottleneck Protector | Prompting | Information Bottleneck Protector | ✅ | ✅ |
-| Signed-Prompt | Prompting/Fine-Tuning | Introduces 'Signed-Prompt' for authorizing sensitive instructions from approved users | ✅ | ✅ |
-| Safety Aware Decoding | Decoding | Safety Aware Decoding | ✅ | ✅ |
-| WANDA Pruning | Model Pruning | Uses WANDA Pruning | ✅ | ❌ |
-| Subspace-oriented model fusion | Model Merging | Subspace-oriented model fusion | ✅ | ❌ |
-| Model Merging to prevent backdoor attacks | Model Merging | Model Merging to prevent backdoor attacks | ✅ | ❌ |
-| KL-then-steer | Activation Editing | KL-then-steer to decrease side-effects of steering vectors | ✅ | ❌ |
-| Generation Aware Alignment | Alignment | Generation Aware Alignment | ✅ | ❌ |
-| Layer-specific editing | Alignment | Layer-specific editing | ✅ | ❌ |
-| Regularized fine-tuning objective | Alignment | Regularized fine-tuning objective for deep safety alignment | ✅ | ❌ |
-| Goal Prioritization | Alignment | Goal Prioritization during training and inference stage | ✅ | ❌ |
-| AEGIS safety dataset | Alignment | Instruction tuning on AEGIS safety dataset | ✅ | ❌ |
-| Training with Instruction Hierarchy | Fine-Tuning | Training with Instruction Hierarchy | ✅ | ❌ |
-| Immunization Conditions | Fine-Tuning | Immunization Conditions to prevent against harmful fine-tuning | ✅ | ❌ |
-| Backdoor Enhanced Safety Alignment | Fine-Tuning | Backdoor Enhanced Safety Alignment to prevent against harmful fine-tuning | ✅ | ❌ |
-| Representation Noising | Fine-Tuning | Representation Noising to prevent against harmful fine-tuning | ✅ | ❌ |
-| Differentially Private fine-tuning | Fine-Tuning | Differentially Private fine-tuning | ✅ | ❌ |
-| Privacy Protection Language Models | Fine-Tuning | Privacy Protection Language Models | ✅ | ❌ |
-| Latent Adversarial Training | Fine-Tuning | Latent Adversarial Training | ✅ | ❌ |
-| Denoised Product-of-Experts | Fine-Tuning | Denoised Product-of-Experts for protecting against various kinds of backdoor triggers | ✅ | ❌ |
-| Detoxifying by Knowledge Editing of Toxic Layers | Fine-Tuning | Detoxifying by Knowledge Editing of Toxic Layers | ✅ | ❌ |
-| Safety-critical parameter gradients analysis | Inspection | Safety-critical parameter gradients analysis | ✅ | ❌ |
-| Erase-and-check framework | Certification | Erase-and-check framework | ✅ | ✅ |
-| Isolate-then-Aggregate | Certification | Isolate-then-Aggregate to protect against PoisonedRAGAttack | ✅ | ✅ |
-| Bias Certification of LLMs | Certification | Bias Certification of LLMs | ✅ | ✅ |
-| Garak LLM Vulnerability Scanner | Model Auditing | Garak LLM Vulnerability Scanner | ✅ | ✅ |
-| Giskard | Model Auditing | Evaluate Performance, Bias issues in AI applications | ✅ | ✅ |
 
 ----
 
