@@ -1,4 +1,5 @@
 # Awesome Red-Teaming LLMs
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <div align="center">
 	<img width="200" height="200" src="LockColorLine300x.png" alt="Red-Teaming LLMs">
@@ -6,7 +7,6 @@
 </div>
 
 ## Contents
-
    - [Introduction](#introduction)
    - [Attack Surface](#attack-surface)
    - [Attacks](#attacks)
@@ -14,8 +14,8 @@
 
 [![Twitter Thread](https://img.shields.io/badge/Thread-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/verma_apurv5/status/1815751139729519011)
 [![arXiv](https://img.shields.io/badge/arXiv-2404.09562-b31b1b?style=for-the-badge&logo=arXiv&logoColor=white)](https://arxiv.org/pdf/2407.14937)
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+## Introduction
 This repository accompanies the paper ["Operationalizing a Threat Model for Red-Teaming Large Language Models (LLMs)"](https://arxiv.org/abs/2407.14937), which presents a comprehensive framework for understanding and conducting red-teaming exercises on Large Language Models (LLMs).
 Introduction
 As LLMs become increasingly integrated into various applications, ensuring their security and robustness is paramount. This paper introduces a detailed threat model and provides a systematization of knowledge (SoK) for red-teaming attacks on LLMs. We present:
@@ -282,7 +282,7 @@ This comprehensive diagram presents attack vectors in increasing order of requir
 | [garak: A Framework for Security Probing Large Language Models](https://api.semanticscholar.org/CorpusID:270559825) | Model Auditing | Garak LLM Vulnerability Scanner | ✅ | ✅ |
 | [giskard: The Evaluation & Testing framework for LLMs & ML models](https://github.com/Giskard-AI/giskard) | Model Auditing | Evaluate Performance, Bias issues in AI applications | ✅ | ✅ |
 
-----
+---
 
 If you like our work, please consider citing. If you would like to add your work to our taxonomy please open a pull request.
 
