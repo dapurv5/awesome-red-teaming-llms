@@ -1,5 +1,4 @@
-# Awesome Red-Teaming LLMs
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Red-Teaming LLMs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 <div align="center">
 	<img width="200" height="200" src="LockColorLine300x.png" alt="Red-Teaming LLMs">
@@ -7,10 +6,10 @@
 </div>
 
 ## Contents
-   - [Introduction](#introduction)
-   - [Attack Surface](#attack-surface)
-   - [Attacks](#attacks)
-   - [Defenses](#defenses)
+- [Introduction](#introduction)
+- [Attack Surface](#attack-surface)
+- [Attacks](#attacks)
+- [Defenses](#defenses)
 
 [![Twitter Thread](https://img.shields.io/badge/Thread-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/verma_apurv5/status/1815751139729519011)
 [![arXiv](https://img.shields.io/badge/arXiv-2404.09562-b31b1b?style=for-the-badge&logo=arXiv&logoColor=white)](https://arxiv.org/pdf/2407.14937)
@@ -65,7 +64,7 @@ This comprehensive diagram presents attack vectors in increasing order of requir
 | A Wolf in Sheep's Clothing: Generalized Nested Jailbreak Prompts can Fool Large Language Models Easily | [Link](https://www.semanticscholar.org/paper/A-Wolf-in-Sheep's-Clothing%3A-Generalized-Nested-can-Ding-Kuang/c4ff1be5c254b60b96b7455eefcc4ec9583f82ed) |
 | FLIRT: Feedback Loop In-context Red Teaming | [Link](https://arxiv.org/pdf/2308.04265) |
 | Jailbreaking Black Box Large Language Models in Twenty Queries | [Link](https://www.semanticscholar.org/paper/Jailbreaking-Black-Box-Large-Language-Models-in-Chao-Robey/4637f79ddfaf923ce569996ffa5b6cda1996faa1) |
-| Red Teaming Language Models with Language Models | [Link](https://aclanthology.org/2022.emnlp-main.225/) |
+| Red Teaming Language Models with Language Models | [Link](https://arxiv.org/abs/2202.03286) |
 | Tree of Attacks: Jailbreaking Black-Box LLMs Automatically | [Link](https://www.semanticscholar.org/paper/Tree-of-Attacks%3A-Jailbreaking-Black-Box-LLMs-Mehrotra-Zampetakis/14e8cf5a5e6a7b35e618b08f5cf06f572b3a54e0) |
 | Leveraging the Context through Multi-Round Interactions for Jailbreaking Attacks | [Link](https://www.semanticscholar.org/paper/Leveraging-the-Context-through-Multi-Round-for-Cheng-Georgopoulos/1b95053af03b5a06809a4967c6cf5ca137bbcde4) |
 | Cognitive Overload: Jailbreaking Large Language Models with Overloaded Logical Thinking | [Link](https://www.semanticscholar.org/paper/Cognitive-Overload%3A-Jailbreaking-Large-Language-Xu-Wang/54c9a97637822c9e1956b1ec70b0c9a0f2338d2c) |
@@ -85,7 +84,7 @@ This comprehensive diagram presents attack vectors in increasing order of requir
 | Universal and Transferable Adversarial Attacks on Aligned Language Models | [Link](https://www.semanticscholar.org/paper/Universal-and-Transferable-Adversarial-Attacks-on-Zou-Wang/47030369e97cc44d4b2e3cf1be85da0fd134904a) |
 | ACG: Accelerated Coordinate Gradient | [Link](https://blog.haizelabs.com/posts/acg/) |
 | PAL: Proxy-Guided Black-Box Attack on Large Language Models | [Link](https://www.semanticscholar.org/paper/PAL%3A-Proxy-Guided-Black-Box-Attack-on-Large-Models-Sitawarin-Mu/ef5da08aad746173b7ddf589068c6abf00205fea) |
-| AutoDAN: Interpretable Gradient-Based Adversarial Attacks on Large Language Models | [Link](https://www.semanticscholar.org/paper/AutoDAN%3A-Interpretable-Gradient-Based-Adversarial-Zhu-Zhang/1227c2fcb8437441b7d72a29a4bc9eef1f5275d2) |
+| AutoDAN: Interpretable Gradient-Based Adversarial Attacks on Large Language Models | [Link](https://arxiv.org/abs/2310.15140) |
 | Open Sesame! Universal Black Box Jailbreaking of Large Language Models | [Link](https://www.semanticscholar.org/paper/Open-Sesame!-Universal-Black-Box-Jailbreaking-of-Lapid-Langberg/f846c0c59608f0a8ff18f4c52adba87bf49dc229) |
 | Jailbreaking Leading Safety-Aligned LLMs with Simple Adaptive Attacks | [Link](https://www.semanticscholar.org/paper/Jailbreaking-Leading-Safety-Aligned-LLMs-with-Andriushchenko-Croce/88d5634a52645f6b05a03536be1f26a2b9bba232) |
 | MASTERKEY: Automated Jailbreaking of Large Language Model Chatbots | [Link](https://www.semanticscholar.org/paper/MASTERKEY%3A-Automated-Jailbreaking-of-Large-Language-Deng-Liu/6987c95f7054d2653178ac93df52aa3c0b99fcf5) |
