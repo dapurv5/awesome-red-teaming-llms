@@ -1,13 +1,19 @@
+# Awesome Red-Teaming LLMs
+
 <div align="center">
 	<img width="200" height="200" src="LockColorLine300x.png" alt="Red-Teaming LLMs">
-  <h1> LLM Red-Teaming </h1>
-
-
 <br>
 </div>
 
+## Contents
+
+   - [Introduction](#introduction)
+   - [Attack Surface](#attack-surface)
+   - [Attacks](#attacks)
+   - [Defenses](#defenses)
+
 [![Twitter Thread](https://img.shields.io/badge/Thread-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/verma_apurv5/status/1815751139729519011)
-[![arXiv](https://img.shields.io/badge/arXiv-2404.09562-b31b1b?style=for-the-badge&logo=arXiv&logoColor=white)](https://arxiv.org/abs/2407.14937)
+[![arXiv](https://img.shields.io/badge/arXiv-2404.09562-b31b1b?style=for-the-badge&logo=arXiv&logoColor=white)](https://arxiv.org/pdf/2407.14937)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 This repository accompanies the paper ["Operationalizing a Threat Model for Red-Teaming Large Language Models (LLMs)"](https://arxiv.org/abs/2407.14937), which presents a comprehensive framework for understanding and conducting red-teaming exercises on Large Language Models (LLMs).
