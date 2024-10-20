@@ -10,8 +10,25 @@
 [![arXiv](https://img.shields.io/badge/arXiv-2404.09562-b31b1b?style=for-the-badge&logo=arXiv&logoColor=white)](https://arxiv.org/abs/2407.14937)
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+This repository accompanies the paper ["Operationalizing a Threat Model for Red-Teaming Large Language Models (LLMs)"](https://arxiv.org/abs/2407.14937), which presents a comprehensive framework for understanding and conducting red-teaming exercises on Large Language Models (LLMs).
+Introduction
+As LLMs become increasingly integrated into various applications, ensuring their security and robustness is paramount. This paper introduces a detailed threat model and provides a systematization of knowledge (SoK) for red-teaming attacks on LLMs. We present:
+
+A taxonomy of attacks based on the stages of LLM development and deployment
+Insights extracted from previous research in the field
+Methods for defense against these attacks
+Practical red-teaming strategies for practitioners
+
+Our work aims to delineate prominent attack motifs and shed light on various entry points, providing a framework for improving the security and robustness of LLM-based systems. This repository organizes the attacks and defenses discussed in the paper, serving as a valuable resource for researchers and practitioners in the field of AI security.
+The following sections provide an overview of the attack taxonomy and defense strategies discussed in the paper. For a more detailed understanding, please refer to the full paper.
+
 ## Attack Surface
+The following figure illustrates the attack surface for Large Language Models (LLMs), highlighting various entry points for potential attacks throughout the LLM lifecycle:
+
+
 ![Attack Surface](attack_dg_v1.png)
+
+This comprehensive diagram presents attack vectors in increasing order of required access. On the left, we see jailbreak attacks targeting application inputs, representing the widest and most accessible attack surface. Moving right, the figure shows progressively deeper entry points, including LLM APIs, in-context data, model activations, and ultimately, training attacks that require access to model weights and training data. Black arrows indicate the flow of information or artifacts, while gray arrows represent side channels exposed by common data preprocessing steps. This visual representation provides a clear overview of the diverse vulnerabilities in LLM systems, from user-facing interfaces to core training processes, helping guide both attack strategies and defense efforts.
 
 ## Attacks
 ![Taxonomy](taxonomy.png)
@@ -207,7 +224,58 @@
 
 
 ## Defenses
-![Defenses](defenses.png)
+<!-- ![Defenses](defenses.png) -->
+
+
+| Study | Category | Short Description | Free | Extrinsic |
+|-------|----------|-------------------|------|-----------|
+| [OpenAI Moderations Endpoint](https://platform.openai.com/docs/guides/moderation) | Guardrail | OpenAI Moderations Endpoint | ❌ | ✅ |
+| [Perspective API's Toxicity API](https://www.perspectiveapi.com/) | Guardrail | Perspective API's Toxicity API | ❌ | ✅ |
+| [Llama Guard](https://ai.meta.com/blog/llama-guard-ai-red-teaming/) | Guardrail | Llama Guard | ✅ | ✅ |
+| [Guardrails AI Validators](https://github.com/guardrails-ai/guardrails) | Guardrail | Guardrails AI Validators | ✅ | ✅ |
+| [NVIDIA Nemo Guardrail](https://github.com/NVIDIA/NeMo-Guardrails) | Guardrail | NVIDIA Nemo Guardrail | ✅ | ✅ |
+| [RigorLLM](https://arxiv.org/abs/2401.12576) | Guardrail | RigorLLM (Safe Suffix + Prompt Augmentation + Aggregation) | ✅ | ✅ |
+| [Adversarial Prompt Shield Classifier](https://arxiv.org/abs/2310.05422) | Guardrail | Adversarial Prompt Shield Classifier | ✅ | ✅ |
+| [WildGuard](https://arxiv.org/abs/2401.11864) | Guardrail | WildGuard | ✅ | ✅ |
+| [SmoothLLM](https://arxiv.org/abs/2310.03684) | Prompting | SmoothLLM (Prompt Augmentation + Aggregation) | ✅ | ✅ |
+| [Self-Reminder](https://arxiv.org/abs/2310.18918) | Prompting | Self-Reminder | ✅ | ✅ |
+| [Intention Analysis Prompting](https://arxiv.org/abs/2401.06561) | Prompting | Intention Analysis Prompting | ✅ | ✅ |
+| [Backtranslation](https://arxiv.org/abs/2401.05727) | Prompting | Backtranslation | ✅ | ✅ |
+| [Safe Suffix](https://arxiv.org/abs/2402.13833) | Prompting | Safe Suffix | ✅ | ✅ |
+| [Safe Prefix](https://arxiv.org/abs/2402.14872) | Prompting | Safe Prefix | ✅ | ✅ |
+| [Prompt Augmentation + Auxiliary model](https://arxiv.org/abs/2310.08419) | Prompting | Prompt Augmentation + Auxiliary model | ✅ | ✅ |
+| [Prompt Augmentation + Aggregation](https://arxiv.org/abs/2401.17263) | Prompting | Prompt Augmentation + Aggregation | ✅ | ✅ |
+| [Prompt Paraphrasing](https://arxiv.org/abs/2402.14872) | Prompting | Prompt Paraphrasing | ✅ | ✅ |
+| [Perplexity Based Defense](https://arxiv.org/abs/2308.14132) | Prompting | Perplexity Based Defense | ✅ | ✅ |
+| [TinyRE](https://arxiv.org/abs/2402.09369) | Prompting | Rewrites input prompt to safe prompt using a sentinel model | ✅ | ✅ |
+| [Safe Suffix/Prefix](https://arxiv.org/abs/2402.11746) | Prompting | Safe Suffix/Prefix (Requires access to log-probabilities) | ✅ | ✅ |
+| [Information Bottleneck Protector](https://arxiv.org/abs/2402.05120) | Prompting | Information Bottleneck Protector | ✅ | ✅ |
+| [Signed-Prompt](https://arxiv.org/abs/2402.14204) | Prompting/Fine-Tuning | Introduces 'Signed-Prompt' for authorizing sensitive instructions from approved users | ✅ | ✅ |
+| [Safety Aware Decoding](https://arxiv.org/abs/2402.13542) | Decoding | Safety Aware Decoding | ✅ | ✅ |
+| [WANDA Pruning](https://arxiv.org/abs/2402.13191) | Model Pruning | Uses WANDA Pruning | ✅ | ❌ |
+| [Subspace-oriented model fusion](https://arxiv.org/abs/2402.10547) | Model Merging | Subspace-oriented model fusion | ✅ | ❌ |
+| [Model Merging to prevent backdoor attacks](https://arxiv.org/abs/2402.09门) | Model Merging | Model Merging to prevent backdoor attacks | ✅ | ❌ |
+| [KL-then-steer](https://arxiv.org/abs/2312.06541) | Activation Editing | KL-then-steer to decrease side-effects of steering vectors | ✅ | ❌ |
+| [Generation Aware Alignment](https://arxiv.org/abs/2312.11462) | Alignment | Generation Aware Alignment | ✅ | ❌ |
+| [Layer-specific editing](https://arxiv.org/abs/2401.06542) | Alignment | Layer-specific editing | ✅ | ❌ |
+| [Regularized fine-tuning objective](https://arxiv.org/abs/2402.13494) | Alignment | Regularized fine-tuning objective for deep safety alignment | ✅ | ❌ |
+| [Goal Prioritization](https://arxiv.org/abs/2309.11495) | Alignment | Goal Prioritization during training and inference stage | ✅ | ❌ |
+| [AEGIS safety dataset](https://arxiv.org/abs/2402.13349) | Alignment | Instruction tuning on AEGIS safety dataset | ✅ | ❌ |
+| [Training with Instruction Hierarchy](https://arxiv.org/abs/2401.11114) | Fine-Tuning | Training with Instruction Hierarchy | ✅ | ❌ |
+| [Immunization Conditions](https://arxiv.org/abs/2402.03948) | Fine-Tuning | Immunization Conditions to prevent against harmful fine-tuning | ✅ | ❌ |
+| [Backdoor Enhanced Safety Alignment](https://arxiv.org/abs/2402.09874) | Fine-Tuning | Backdoor Enhanced Safety Alignment to prevent against harmful fine-tuning | ✅ | ❌ |
+| [Representation Noising](https://arxiv.org/abs/2402.13893) | Fine-Tuning | Representation Noising to prevent against harmful fine-tuning | ✅ | ❌ |
+| [Differentially Private fine-tuning](https://arxiv.org/abs/2110.06500) | Fine-Tuning | Differentially Private fine-tuning | ✅ | ❌ |
+| [Privacy Protection Language Models](https://arxiv.org/abs/2305.15008) | Fine-Tuning | Privacy Protection Language Models | ✅ | ❌ |
+| [Latent Adversarial Training](https://arxiv.org/abs/2402.09353) | Fine-Tuning | Latent Adversarial Training | ✅ | ❌ |
+| [Denoised Product-of-Experts](https://arxiv.org/abs/2308.03906) | Fine-Tuning | Denoised Product-of-Experts for protecting against various kinds of backdoor triggers | ✅ | ❌ |
+| [Detoxifying by Knowledge Editing of Toxic Layers](https://arxiv.org/abs/2402.09581) | Fine-Tuning | Detoxifying by Knowledge Editing of Toxic Layers | ✅ | ❌ |
+| [Safety-critical parameter gradients analysis](https://arxiv.org/abs/2402.13691) | Inspection | Safety-critical parameter gradients analysis | ✅ | ❌ |
+| [Erase-and-check framework](https://arxiv.org/abs/2309.02705) | Certification | Erase-and-check framework | ✅ | ✅ |
+| [Isolate-then-Aggregate](https://arxiv.org/abs/2402.09457) | Certification | Isolate-then-Aggregate to protect against PoisonedRAGAttack | ✅ | ✅ |
+| [Bias Certification of LLMs](https://arxiv.org/abs/2402.13446) | Certification | Bias Certification of LLMs | ✅ | ✅ |
+| [Garak LLM Vulnerability Scanner](https://github.com/leondz/garak) | Model Auditing | Garak LLM Vulnerability Scanner | ✅ | ✅ |
+| [Giskard](https://github.com/Giskard-AI/giskard) | Model Auditing | Evaluate Performance, Bias issues in AI applications | ✅ | ✅ |
 
 ----
 
