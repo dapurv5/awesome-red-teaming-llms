@@ -229,53 +229,53 @@ This comprehensive diagram presents attack vectors in increasing order of requir
 
 | Study | Category | Short Description | Free | Extrinsic |
 |-------|----------|-------------------|------|-----------|
-| [OpenAI Moderations Endpoint](https://platform.openai.com/docs/guides/moderation) | Guardrail | OpenAI Moderations Endpoint | ❌ | ✅ |
-| [Perspective API's Toxicity API](https://www.perspectiveapi.com/) | Guardrail | Perspective API's Toxicity API | ❌ | ✅ |
-| [Llama Guard](https://ai.meta.com/blog/llama-guard-ai-red-teaming/) | Guardrail | Llama Guard | ✅ | ✅ |
-| [Guardrails AI Validators](https://github.com/guardrails-ai/guardrails) | Guardrail | Guardrails AI Validators | ✅ | ✅ |
-| [NVIDIA Nemo Guardrail](https://github.com/NVIDIA/NeMo-Guardrails) | Guardrail | NVIDIA Nemo Guardrail | ✅ | ✅ |
-| [RigorLLM](https://arxiv.org/abs/2401.12576) | Guardrail | RigorLLM (Safe Suffix + Prompt Augmentation + Aggregation) | ✅ | ✅ |
-| [Adversarial Prompt Shield Classifier](https://arxiv.org/abs/2310.05422) | Guardrail | Adversarial Prompt Shield Classifier | ✅ | ✅ |
-| [WildGuard](https://arxiv.org/abs/2401.11864) | Guardrail | WildGuard | ✅ | ✅ |
-| [SmoothLLM](https://arxiv.org/abs/2310.03684) | Prompting | SmoothLLM (Prompt Augmentation + Aggregation) | ✅ | ✅ |
-| [Self-Reminder](https://arxiv.org/abs/2310.18918) | Prompting | Self-Reminder | ✅ | ✅ |
-| [Intention Analysis Prompting](https://arxiv.org/abs/2401.06561) | Prompting | Intention Analysis Prompting | ✅ | ✅ |
-| [Backtranslation](https://arxiv.org/abs/2401.05727) | Prompting | Backtranslation | ✅ | ✅ |
-| [Safe Suffix](https://arxiv.org/abs/2402.13833) | Prompting | Safe Suffix | ✅ | ✅ |
-| [Safe Prefix](https://arxiv.org/abs/2402.14872) | Prompting | Safe Prefix | ✅ | ✅ |
-| [Prompt Augmentation + Auxiliary model](https://arxiv.org/abs/2310.08419) | Prompting | Prompt Augmentation + Auxiliary model | ✅ | ✅ |
-| [Prompt Augmentation + Aggregation](https://arxiv.org/abs/2401.17263) | Prompting | Prompt Augmentation + Aggregation | ✅ | ✅ |
-| [Prompt Paraphrasing](https://arxiv.org/abs/2402.14872) | Prompting | Prompt Paraphrasing | ✅ | ✅ |
-| [Perplexity Based Defense](https://arxiv.org/abs/2308.14132) | Prompting | Perplexity Based Defense | ✅ | ✅ |
-| [TinyRE](https://arxiv.org/abs/2402.09369) | Prompting | Rewrites input prompt to safe prompt using a sentinel model | ✅ | ✅ |
-| [Safe Suffix/Prefix](https://arxiv.org/abs/2402.11746) | Prompting | Safe Suffix/Prefix (Requires access to log-probabilities) | ✅ | ✅ |
-| [Information Bottleneck Protector](https://arxiv.org/abs/2402.05120) | Prompting | Information Bottleneck Protector | ✅ | ✅ |
-| [Signed-Prompt](https://arxiv.org/abs/2402.14204) | Prompting/Fine-Tuning | Introduces 'Signed-Prompt' for authorizing sensitive instructions from approved users | ✅ | ✅ |
-| [Safety Aware Decoding](https://arxiv.org/abs/2402.13542) | Decoding | Safety Aware Decoding | ✅ | ✅ |
-| [WANDA Pruning](https://arxiv.org/abs/2402.13191) | Model Pruning | Uses WANDA Pruning | ✅ | ❌ |
-| [Subspace-oriented model fusion](https://arxiv.org/abs/2402.10547) | Model Merging | Subspace-oriented model fusion | ✅ | ❌ |
-| [Model Merging to prevent backdoor attacks](https://arxiv.org/abs/2402.09门) | Model Merging | Model Merging to prevent backdoor attacks | ✅ | ❌ |
-| [KL-then-steer](https://arxiv.org/abs/2312.06541) | Activation Editing | KL-then-steer to decrease side-effects of steering vectors | ✅ | ❌ |
-| [Generation Aware Alignment](https://arxiv.org/abs/2312.11462) | Alignment | Generation Aware Alignment | ✅ | ❌ |
-| [Layer-specific editing](https://arxiv.org/abs/2401.06542) | Alignment | Layer-specific editing | ✅ | ❌ |
-| [Regularized fine-tuning objective](https://arxiv.org/abs/2402.13494) | Alignment | Regularized fine-tuning objective for deep safety alignment | ✅ | ❌ |
-| [Goal Prioritization](https://arxiv.org/abs/2309.11495) | Alignment | Goal Prioritization during training and inference stage | ✅ | ❌ |
-| [AEGIS safety dataset](https://arxiv.org/abs/2402.13349) | Alignment | Instruction tuning on AEGIS safety dataset | ✅ | ❌ |
-| [Training with Instruction Hierarchy](https://arxiv.org/abs/2401.11114) | Fine-Tuning | Training with Instruction Hierarchy | ✅ | ❌ |
-| [Immunization Conditions](https://arxiv.org/abs/2402.03948) | Fine-Tuning | Immunization Conditions to prevent against harmful fine-tuning | ✅ | ❌ |
-| [Backdoor Enhanced Safety Alignment](https://arxiv.org/abs/2402.09874) | Fine-Tuning | Backdoor Enhanced Safety Alignment to prevent against harmful fine-tuning | ✅ | ❌ |
-| [Representation Noising](https://arxiv.org/abs/2402.13893) | Fine-Tuning | Representation Noising to prevent against harmful fine-tuning | ✅ | ❌ |
-| [Differentially Private fine-tuning](https://arxiv.org/abs/2110.06500) | Fine-Tuning | Differentially Private fine-tuning | ✅ | ❌ |
-| [Privacy Protection Language Models](https://arxiv.org/abs/2305.15008) | Fine-Tuning | Privacy Protection Language Models | ✅ | ❌ |
-| [Latent Adversarial Training](https://arxiv.org/abs/2402.09353) | Fine-Tuning | Latent Adversarial Training | ✅ | ❌ |
-| [Denoised Product-of-Experts](https://arxiv.org/abs/2308.03906) | Fine-Tuning | Denoised Product-of-Experts for protecting against various kinds of backdoor triggers | ✅ | ❌ |
-| [Detoxifying by Knowledge Editing of Toxic Layers](https://arxiv.org/abs/2402.09581) | Fine-Tuning | Detoxifying by Knowledge Editing of Toxic Layers | ✅ | ❌ |
-| [Safety-critical parameter gradients analysis](https://arxiv.org/abs/2402.13691) | Inspection | Safety-critical parameter gradients analysis | ✅ | ❌ |
-| [Erase-and-check framework](https://arxiv.org/abs/2309.02705) | Certification | Erase-and-check framework | ✅ | ✅ |
-| [Isolate-then-Aggregate](https://arxiv.org/abs/2402.09457) | Certification | Isolate-then-Aggregate to protect against PoisonedRAGAttack | ✅ | ✅ |
-| [Bias Certification of LLMs](https://arxiv.org/abs/2402.13446) | Certification | Bias Certification of LLMs | ✅ | ✅ |
-| [Garak LLM Vulnerability Scanner](https://github.com/leondz/garak) | Model Auditing | Garak LLM Vulnerability Scanner | ✅ | ✅ |
-| [Giskard](https://github.com/Giskard-AI/giskard) | Model Auditing | Evaluate Performance, Bias issues in AI applications | ✅ | ✅ |
+| [OpenAI Moderations Endpoint](https://api.semanticscholar.org/CorpusID:253266097) | Guardrail | OpenAI Moderations Endpoint | ❌ | ✅ |
+| [Perspective API's Toxicity API](https://api.semanticscholar.org/CorpusID:252280308) | Guardrail | Perspective API's Toxicity API | ❌ | ✅ |
+| [Llama Guard](https://api.semanticscholar.org/CorpusID:265341024) | Guardrail | Llama Guard | ✅ | ✅ |
+| [Guardrails AI Validators](https://api.semanticscholar.org/CorpusID:253266097) | Guardrail | Guardrails AI Validators | ✅ | ✅ |
+| [NVIDIA Nemo Guardrail](https://api.semanticscholar.org/CorpusID:265341024) | Guardrail | NVIDIA Nemo Guardrail | ✅ | ✅ |
+| [RigorLLM](https://api.semanticscholar.org/CorpusID:270703306) | Guardrail | RigorLLM (Safe Suffix + Prompt Augmentation + Aggregation) | ✅ | ✅ |
+| [Adversarial Prompt Shield Classifier](https://api.semanticscholar.org/CorpusID:265341024) | Guardrail | Adversarial Prompt Shield Classifier | ✅ | ✅ |
+| [WildGuard](https://api.semanticscholar.org/CorpusID:270688409) | Guardrail | WildGuard | ✅ | ✅ |
+| [SmoothLLM](https://api.semanticscholar.org/CorpusID:265341024) | Prompting | SmoothLLM (Prompt Augmentation + Aggregation) | ✅ | ✅ |
+| [Self-Reminder](https://api.semanticscholar.org/CorpusID:265341024) | Prompting | Self-Reminder | ✅ | ✅ |
+| [Intention Analysis Prompting](https://api.semanticscholar.org/CorpusID:270738192) | Prompting | Intention Analysis Prompting | ✅ | ✅ |
+| [Backtranslation](https://api.semanticscholar.org/CorpusID:270738192) | Prompting | Backtranslation | ✅ | ✅ |
+| [Safe Suffix](https://api.semanticscholar.org/CorpusID:270878226) | Prompting | Safe Suffix | ✅ | ✅ |
+| [Safe Prefix](https://api.semanticscholar.org/CorpusID:270878226) | Prompting | Safe Prefix | ✅ | ✅ |
+| [Prompt Augmentation + Auxiliary model](https://api.semanticscholar.org/CorpusID:265341024) | Prompting | Prompt Augmentation + Auxiliary model | ✅ | ✅ |
+| [Prompt Augmentation + Aggregation](https://api.semanticscholar.org/CorpusID:270738192) | Prompting | Prompt Augmentation + Aggregation | ✅ | ✅ |
+| [Prompt Paraphrasing](https://api.semanticscholar.org/CorpusID:270738192) | Prompting | Prompt Paraphrasing | ✅ | ✅ |
+| [Perplexity Based Defense](https://api.semanticscholar.org/CorpusID:265341024) | Prompting | Perplexity Based Defense | ✅ | ✅ |
+| [TinyRE](https://api.semanticscholar.org/CorpusID:270738192) | Prompting | Rewrites input prompt to safe prompt using a sentinel model | ✅ | ✅ |
+| [Defensive Prompt Programming](https://api.semanticscholar.org/CorpusID:270738192) | Prompting | Safe Suffix/Prefix (Requires access to log-probabilities) | ✅ | ✅ |
+| [Information Bottleneck Protector](https://api.semanticscholar.org/CorpusID:270738192) | Prompting | Information Bottleneck Protector | ✅ | ✅ |
+| [Signed-Prompt](https://api.semanticscholar.org/CorpusID:270738192) | Prompting/Fine-Tuning | Introduces 'Signed-Prompt' for authorizing sensitive instructions from approved users | ✅ | ✅ |
+| [Safety Aware Decoding](https://api.semanticscholar.org/CorpusID:270711308) | Decoding | Safety Aware Decoding | ✅ | ✅ |
+| [WANDA Pruning](https://api.semanticscholar.org/CorpusID:270738192) | Model Pruning | Uses WANDA Pruning | ✅ | ❌ |
+| [Subspace-oriented model fusion](https://api.semanticscholar.org/CorpusID:270711308) | Model Merging | Subspace-oriented model fusion | ✅ | ❌ |
+| [Model Merging to prevent backdoor attacks](https://api.semanticscholar.org/CorpusID:270711308) | Model Merging | Model Merging to prevent backdoor attacks | ✅ | ❌ |
+| [KL-then-steer](https://api.semanticscholar.org/CorpusID:270703306) | Activation Editing | KL-then-steer to decrease side-effects of steering vectors | ✅ | ❌ |
+| [Generation Aware Alignment](https://api.semanticscholar.org/CorpusID:265341024) | Alignment | Generation Aware Alignment | ✅ | ❌ |
+| [Layer-specific editing](https://api.semanticscholar.org/CorpusID:270738192) | Alignment | Layer-specific editing | ✅ | ❌ |
+| [Regularized fine-tuning objective](https://api.semanticscholar.org/CorpusID:270711308) | Alignment | Regularized fine-tuning objective for deep safety alignment | ✅ | ❌ |
+| [Goal Prioritization](https://api.semanticscholar.org/CorpusID:265341024) | Alignment | Goal Prioritization during training and inference stage | ✅ | ❌ |
+| [AEGIS safety dataset](https://api.semanticscholar.org/CorpusID:270711308) | Alignment | Instruction tuning on AEGIS safety dataset | ✅ | ❌ |
+| [Training with Instruction Hierarchy](https://api.semanticscholar.org/CorpusID:270738192) | Fine-Tuning | Training with Instruction Hierarchy | ✅ | ❌ |
+| [Immunization Conditions](https://api.semanticscholar.org/CorpusID:270738192) | Fine-Tuning | Immunization Conditions to prevent against harmful fine-tuning | ✅ | ❌ |
+| [Backdoor Enhanced Safety Alignment](https://api.semanticscholar.org/CorpusID:270738192) | Fine-Tuning | Backdoor Enhanced Safety Alignment to prevent against harmful fine-tuning | ✅ | ❌ |
+| [Representation Noising](https://api.semanticscholar.org/CorpusID:270738192) | Fine-Tuning | Representation Noising to prevent against harmful fine-tuning | ✅ | ❌ |
+| [Differentially Private fine-tuning](https://api.semanticscholar.org/CorpusID:232344413) | Fine-Tuning | Differentially Private fine-tuning | ✅ | ❌ |
+| [Privacy Protection Language Models](https://api.semanticscholar.org/CorpusID:265341024) | Fine-Tuning | Privacy Protection Language Models | ✅ | ❌ |
+| [Latent Adversarial Training](https://api.semanticscholar.org/CorpusID:270711308) | Fine-Tuning | Latent Adversarial Training | ✅ | ❌ |
+| [Denoised Product-of-Experts](https://api.semanticscholar.org/CorpusID:265341024) | Fine-Tuning | Denoised Product-of-Experts for protecting against various kinds of backdoor triggers | ✅ | ❌ |
+| [Detoxifying by Knowledge Editing of Toxic Layers](https://api.semanticscholar.org/CorpusID:270738192) | Fine-Tuning | Detoxifying by Knowledge Editing of Toxic Layers | ✅ | ❌ |
+| [Safety-critical parameter gradients analysis](https://api.semanticscholar.org/CorpusID:270711308) | Inspection | Safety-critical parameter gradients analysis | ✅ | ❌ |
+| [Erase-and-check framework](https://api.semanticscholar.org/CorpusID:263275506) | Certification | Erase-and-check framework | ✅ | ✅ |
+| [Isolate-then-Aggregate](https://api.semanticscholar.org/CorpusID:270738192) | Certification | Isolate-then-Aggregate to protect against PoisonedRAGAttack | ✅ | ✅ |
+| [Bias Certification of LLMs](https://api.semanticscholar.org/CorpusID:270711308) | Certification | Bias Certification of LLMs | ✅ | ✅ |
+| [Garak LLM Vulnerability Scanner](https://api.semanticscholar.org/CorpusID:270738192) | Model Auditing | Garak LLM Vulnerability Scanner | ✅ | ✅ |
+| [Giskard](https://api.semanticscholar.org/CorpusID:253266097) | Model Auditing | Evaluate Performance, Bias issues in AI applications | ✅ | ✅ |
 
 ----
 
