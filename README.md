@@ -1,5 +1,5 @@
 # Awesome Red-Teaming LLMs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-> A comprehensive guide to understanding Attacks, Defenses and red-teaming for Large Language Models (LLMs).
+> A comprehensive guide to understanding Attacks, Defenses and Red-Teaming for Large Language Models (LLMs).
 
 <div align="center">
 	<img width="200" height="200" src="LockColorLine300x.png" alt="Red-Teaming LLMs">
