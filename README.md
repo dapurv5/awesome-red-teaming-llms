@@ -12,7 +12,7 @@
 
 ## Contents
 - [Attacks](#attacks)
-  - [Jailbreak Attacks](#jailbreak-attack)
+  - [Jailbreak Attack](#jailbreak-attack)
   - [Direct Attack](#direct-attack)
   - [Infusion Attack](#infusion-attack)
   - [Inference Attack](#inference-attack)
