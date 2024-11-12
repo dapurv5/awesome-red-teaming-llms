@@ -1,65 +1,23 @@
 # Awesome Red-Teaming LLMs [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-A comprehensive guide to understanding and conducting red-teaming exercises on Large Language Models (LLMs).
+> A comprehensive guide to understanding Attacks, Defenses and red-teaming for Large Language Models (LLMs).
 
 <div align="center">
 	<img width="200" height="200" src="LockColorLine300x.png" alt="Red-Teaming LLMs">
 <br>
 </div>
 
-## Contents
-- [Awesome Red-Teaming LLMs ](#awesome-red-teaming-llms-)
-  - [Contents](#contents)
-  - [Introduction](#introduction)
-  - [Attack Surface](#attack-surface)
-  - [Attacks](#attacks)
-    - [Jailbreak Attack](#jailbreak-attack)
-    - [Direct Attack](#direct-attack)
-      - [Automated Attacks](#automated-attacks)
-        - [Transferable Attacks](#transferable-attacks)
-      - [Inversion Attacks](#inversion-attacks)
-        - [Data Inversion](#data-inversion)
-        - [Model Inversion](#model-inversion)
-          - [Prompt Inversion](#prompt-inversion)
-        - [Embedding Inversion](#embedding-inversion)
-      - [Side Channel Attacks](#side-channel-attacks)
-    - [Infusion Attack](#infusion-attack)
-    - [Inference Attack](#inference-attack)
-      - [Latent Space Attack](#latent-space-attack)
-      - [Decoding Attack](#decoding-attack)
-      - [Tokenizer Attack](#tokenizer-attack)
-    - [Training Time Attack](#training-time-attack)
-      - [Backdoor Attack](#backdoor-attack)
-        - [Preference Tuning Stage](#preference-tuning-stage)
-        - [Instruction Tuning Stage](#instruction-tuning-stage)
-        - [Adapters and Model Weights](#adapters-and-model-weights)
-      - [Alignment Erasure](#alignment-erasure)
-      - [Gradient-Based Attacks](#gradient-based-attacks)
-  - [Defenses](#defenses)
-      - [BibTex](#bibtex)
-
 [![Twitter Thread](https://img.shields.io/badge/Thread-000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/verma_apurv5/status/1815751139729519011)
 [![arXiv](https://img.shields.io/badge/arXiv-2404.09562-b31b1b?style=for-the-badge&logo=arXiv&logoColor=white)](https://arxiv.org/pdf/2407.14937)
 
-## Introduction
-This repository accompanies the paper ["Operationalizing a Threat Model for Red-Teaming Large Language Models (LLMs)"](https://arxiv.org/abs/2407.14937), which presents a comprehensive framework for understanding and conducting red-teaming exercises on Large Language Models (LLMs).
-Introduction
-As LLMs become increasingly integrated into various applications, ensuring their security and robustness is paramount. This paper introduces a detailed threat model and provides a systematization of knowledge (SoK) for red-teaming attacks on LLMs. We present:
 
-A taxonomy of attacks based on the stages of LLM development and deployment
-Insights extracted from previous research in the field
-Methods for defense against these attacks
-Practical red-teaming strategies for practitioners
-
-Our work aims to delineate prominent attack motifs and shed light on various entry points, providing a framework for improving the security and robustness of LLM-based systems. This repository organizes the attacks and defenses discussed in the paper, serving as a valuable resource for researchers and practitioners in the field of AI security.
-The following sections provide an overview of the attack taxonomy and defense strategies discussed in the paper. For a more detailed understanding, please refer to the full paper.
-
-## Attack Surface
-The following figure illustrates the attack surface for Large Language Models (LLMs), highlighting various entry points for potential attacks throughout the LLM lifecycle:
-
-
-![Attack Surface](attack_dg_v1.png)
-
-This comprehensive diagram presents attack vectors in increasing order of required access. On the left, we see jailbreak attacks targeting application inputs, representing the widest and most accessible attack surface. Moving right, the figure shows progressively deeper entry points, including LLM APIs, in-context data, model activations, and ultimately, training attacks that require access to model weights and training data. Black arrows indicate the flow of information or artifacts, while gray arrows represent side channels exposed by common data preprocessing steps. This visual representation provides a clear overview of the diverse vulnerabilities in LLM systems, from user-facing interfaces to core training processes, helping guide both attack strategies and defense efforts.
+## Contents
+- [Attacks](#attacks)
+  - [Jailbreak Attacks](#jailbreak-attack)
+  - [Direct Attack](#direct-attack)
+  - [Infusion Attack](#infusion-attack)
+  - [Inference Attack](#inference-attack)
+  - [Training Time Attack](#training-time-attack)
+- [Defenses](#defenses)
 
 ## Attacks
 ![Taxonomy](taxonomy.png)
