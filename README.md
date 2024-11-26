@@ -18,6 +18,8 @@
   - [Inference Attack](#inference-attack)
   - [Training Time Attack](#training-time-attack)
 - [Defenses](#defenses)
+- [Other Surveys](#other-surveys)
+- [Red-Teaming](#red-teaming)
 
 ## Attacks
 ![Taxonomy](taxonomy.png)
