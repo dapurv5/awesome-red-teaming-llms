@@ -271,6 +271,18 @@
 
 ---
 
+
+## Other Surveys
+| Title | Link |
+|-------|------|
+| SoK: Prompt Hacking of Large Language Models | [Link](https://www.semanticscholar.org/paper/SoK%3A-Prompt-Hacking-of-Large-Language-Models-Rababah-Wu/9259d06eeaae42b05ad22ba76f0a1cbb216ad63a) |
+
+
+## Red-Teaming
+| Title | Link |
+|-------|------|
+| Red-Teaming for Generative AI: Silver Bullet or Security Theater? | [Link](https://ojs.aaai.org/index.php/AIES/article/view/31647) |
+
 If you like our work, please consider citing. If you would like to add your work to our taxonomy please open a pull request.
 
 #### BibTex
