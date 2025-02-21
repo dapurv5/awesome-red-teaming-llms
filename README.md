@@ -2,7 +2,7 @@
 > A comprehensive guide to understanding Attacks, Defenses and Red-Teaming for Large Language Models (LLMs).
 
 <div align="center">
-	<img width="200" height="200" src="LockColorLine300x.png" alt="Red-Teaming LLMs">
+	<img width="200" height="200" src="fig/LockColorLine300x.png" alt="Red-Teaming LLMs">
 <br>
 </div>
 
@@ -21,7 +21,7 @@
 - [Red-Teaming](#red-teaming)
 
 ## Red-Teaming Attack Taxonomy
-![Taxonomy](taxonomy.png)
+![Taxonomy](fig/taxonomy.png)
 
 
 ## Other Surveys
