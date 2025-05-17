@@ -49,6 +49,7 @@
 | Query-Efficient Black-Box Red Teaming via Bayesian Optimization | [Link](https://www.semanticscholar.org/paper/Query-Efficient-Black-Box-Red-Teaming-via-Bayesian-Lee-Lee/cc3bfea86ed457079363598ae38af11dd3b00e47) |
 | Make Them Spill the Beans! Coercive Knowledge Extraction from (Production) LLMs | [Link](https://www.semanticscholar.org/paper/Make-Them-Spill-the-Beans!-Coercive-Knowledge-from-Zhang-Shen/89641466373aa9ce2976e3f384b0791a7bd0931c) |
 | CodeChameleon: Personalized Encryption Framework for Jailbreaking Large Language Models | [Link](https://www.semanticscholar.org/paper/CodeChameleon%3A-Personalized-Encryption-Framework-Lv-Wang/72f51c3ef967f7905e3194296cf6fd8337b1a437) |
+| AdvPrompter: Fast Adaptive Adversarial Prompting Against Large Language Models | [Link](https://arxiv.org/abs/2404.16873) |
 
 ##### Transferable Attacks
 | Title | Link |
