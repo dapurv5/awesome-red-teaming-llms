@@ -18,6 +18,17 @@
 | Exploiting Novel GPT-4 APIs | [Link](https://www.semanticscholar.org/paper/Exploiting-Novel-GPT-4-APIs-Pelrine-Taufeeque/ac2a659cc6f0e3635a9c1351c9963b47817205fb) |
 | Large Language Models are Vulnerable to Bait-and-Switch Attacks for Generating Harmful Content | [Link](https://www.semanticscholar.org/paper/Large-Language-Models-are-Vulnerable-to-Attacks-for-Bianchi-Zou/05e0c57f912cec9597021855bac28306c97e36fd) |
 | Using Hallucinations to Bypass GPT4's Filter | [Link](https://www.semanticscholar.org/paper/Using-Hallucinations-to-Bypass-GPT4's-Filter-Lemkin/d6ecc2c23e257108f49ef756147acadbb4ca5678) |
+| Skeleton Key: A Novel Method for Bypassing LLM Safety Protocols | [Link](https://www.microsoft.com/en-us/security/blog/2024/06/26/mitigating-skeleton-key-a-new-type-of-generative-ai-jailbreak-technique/) |
+| Comprehensive Assessment of Jailbreak Attacks Against LLMs                                 | [Link](https://arxiv.org/abs/2402.05668)                          |
+| Analyzing the Inherent Response Tendency of LLMs: Real-World Instructions-Driven Jailbreak | [Link](https://arxiv.org/abs/2312.04127)                          |
+| Many-shot Jailbreaking                                                                     | [Link](https://www.anthropic.com/research/many-shot-jailbreaking) |
+| Jailbreaking Proprietary Large Language Models using Word Substitution Cipher              | [Link](https://openreview.net/pdf/8f6afb7d51ea19e02495e346c060bee8e963cbf9.pdf)                          |
+| Multi-step Jailbreaking Privacy Attacks on ChatGPT                                         | [Link](https://arxiv.org/abs/2304.05197)                          |
+| Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations        | [Link](https://arxiv.org/abs/2310.06387)                          |
+| Leveraging the Context through Multi-Round Interactions for Jailbreaking Attacks           | [Link](https://arxiv.org/abs/2402.09177)                          |
+| Cognitive Overload: Jailbreaking Large Language Models with Overloaded Logical Thinking    | [Link](https://arxiv.org/abs/2311.09827)                          |
+
+
 
 #### Automated Jailbreak Attacks
 | Title | Link |

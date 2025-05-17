@@ -52,7 +52,16 @@
 | [Certifying LLM Safety against Adversarial Prompting](https://doi.org/10.48550/arXiv.2309.02705) | Certification | Erase-and-check framework | ✅ | ✅ |
 | [PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models](https://api.semanticscholar.org/CorpusID:267626957) | Certification | Isolate-then-Aggregate to protect against PoisonedRAGAttack | ✅ | ✅ |
 | [Quantitative Certification of Bias in Large Language Models](https://api.semanticscholar.org/CorpusID:270094829) | Certification | Bias Certification of LLMs | ✅ | ✅ |
+| [C-RAG: Certified Generation Risks for Retrieval-Augmented Language Models](https://arxiv.org/abs/2402.03181) | Certification | Framework providing provable guarantees on generation risks in RAG models | ✅ | ✅ |
 | [garak: A Framework for Security Probing Large Language Models](https://api.semanticscholar.org/CorpusID:270559825) | Model Auditing | Garak LLM Vulnerability Scanner | ✅ | ✅ |
 | [giskard: The Evaluation & Testing framework for LLMs & ML models](https://github.com/Giskard-AI/giskard) | Model Auditing | Evaluate Performance, Bias issues in AI applications | ✅ | ✅ |
+
+
+## Holistic Defense
+
+| Study | Category | Short Description | Free | Extrinsic |
+|-------|----------|-------------------|------|-----------|
+| [AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks](https://arxiv.org/abs/2403.04783) | Multi-Agent Defense | A multi-agent framework that filters harmful responses from LLMs | ✅ | ✅ |
+| [Swiss Cheese Model for AI Safety: A Taxonomy and Reference Architecture for Multi-Layered Guardrails of Foundation Model Based Agents](https://arxiv.org/abs/2408.02205) | Multi-Layered Defense | A reference architecture inspired by the Swiss Cheese Model for designing multi-layered guardrails | ✅ | ✅ |
 
 ---
