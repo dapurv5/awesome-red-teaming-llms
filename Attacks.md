@@ -78,6 +78,8 @@
 | Controlling the Extraction of Memorized Data from Large Language Models via Prompt-Tuning | [Link](https://www.semanticscholar.org/paper/Controlling-the-Extraction-of-Memorized-Data-from-Ozdayi-Peris/e4bbcf6c84bfcdbeafecf75f2b0b98eaa1020e63) |
 | Practical Membership Inference Attacks against Fine-tuned Large Language Models via Self-prompt Calibration | [Link](https://www.semanticscholar.org/paper/Practical-Membership-Inference-Attacks-against-via-Fu-Wang/6bf34b4a1937ca5ae692594eda880ff671b8ee57) |
 | Membership Inference Attacks against Language Models via Neighbourhood Comparison | [Link](https://aclanthology.org/2023.findings-acl.719/) |
+| Measuring Non-Adversarial Reproduction of Training Data In Large Language Models | [Link](https://arxiv.org/pdf/2411.10242)
+
 
 ##### Model Inversion
 | Title | Link |
