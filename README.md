@@ -44,9 +44,10 @@
 | TRIDENT: Enhancing Large Language Model Safety with Tri-Dimensional Diversified Red-Teaming Data Synthesis | [Link](https://arxiv.org/abs/2505.24672) |
 | The State of Multilingual LLM Safety Research: From Measuring the Language Gap to Mitigating It | [Link](https://arxiv.org/abs/2505.24119) |
 | RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in Hybrid Web-OS Environments | [Link](https://arxiv.org/abs/2505.21936) |
-|
 | RRTL: Red Teaming Reasoning Large Language Models in Tool Learning | [Link](https://arxiv.org/abs/2505.17106) |
 | Capability-Based Scaling Laws for LLM Red-Teaming | [Link](https://arxiv.org/abs/2505.20162) |
+| Automated Red Teaming with GOAT: the Generative Offensive Agent Tester | [Link](https://arxiv.org/abs/2410.01606) |
+| Strategize Globally, Adapt Locally: A Multi-Turn Red Teaming Agent with Dual-Level Learning | [Link](https://arxiv.org/abs/2504.01278) |
 
 
 If you like our work, please consider citing. If you would like to add your work to our taxonomy please open a pull request.
