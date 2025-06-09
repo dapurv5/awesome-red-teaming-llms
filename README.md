@@ -41,6 +41,13 @@
 | Red-Teaming LLM Multi-Agent Systems via Communication Attacks | [Link](https://arxiv.org/abs/2502.14847) |
 | Red Teaming the Mind of the Machine: A Systematic Evaluation of Prompt Injection and Jailbreak Vulnerabilities in LLMs | [Link](https://arxiv.org/abs/2505.04806) |
 | Red-Teaming LLM Multi-Agent Systems via Communication Attacks | [Link](https://arxiv.org/abs/2502.14847) |
+| TRIDENT: Enhancing Large Language Model Safety with Tri-Dimensional Diversified Red-Teaming Data Synthesis | [Link](https://arxiv.org/abs/2505.24672) |
+| The State of Multilingual LLM Safety Research: From Measuring the Language Gap to Mitigating It | [Link](https://arxiv.org/abs/2505.24119) |
+| RedTeamCUA: Realistic Adversarial Testing of Computer-Use Agents in Hybrid Web-OS Environments | [Link](https://arxiv.org/abs/2505.21936) |
+|
+| RRTL: Red Teaming Reasoning Large Language Models in Tool Learning | [Link](https://arxiv.org/abs/2505.17106) |
+| Capability-Based Scaling Laws for LLM Red-Teaming | [Link](https://arxiv.org/abs/2505.20162) |
+
 
 If you like our work, please consider citing. If you would like to add your work to our taxonomy please open a pull request.
 
