@@ -205,3 +205,4 @@
 | Unveiling the Implicit Toxicity in Large Language Models | [Link](https://aclanthology.org/2023.emnlp-main.84/) |
 | Hijacking Large Language Models via Adversarial In-Context Learning | [Link](https://www.semanticscholar.org/paper/Hijacking-Large-Language-Models-via-Adversarial-Qiang-Zhou/6d68b5c1eaf03aba857476a9825acf3e48edd840) |
 | Boosting Jailbreak Attack with Momentum | [Link](https://www.semanticscholar.org/paper/Boosting-Jailbreak-Attack-with-Momentum-Zhang-Wei/9f2ea0e770e154bb00b2276596afd148a7facfe8) |
+| PII Jailbreaking in LLMs via Activation Steering Reveals Personal Information Leakage | [Link](https://arxiv.org/abs/2507.02332) |
