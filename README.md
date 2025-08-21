@@ -16,6 +16,7 @@
   - [Infusion Attack](Attacks.md#infusion-attack)
   - [Inference Attack](Attacks.md#inference-attack)
   - [Training Attack](Attacks.md#training-attack)
+  - [Compound Systems Attacks](CompoundSystemsAttacks.md)
 - [Defenses](Defenses.md)
 - [Other Surveys](#other-surveys)
 - [Red-Teaming](#red-teaming)
