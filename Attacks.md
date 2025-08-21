@@ -180,6 +180,7 @@
 | Stealthy and Persistent Unalignment on Large Language Models via Backdoor Injections | [Link](https://www.semanticscholar.org/paper/Stealthy-and-Persistent-Unalignment-on-Large-Models-Cao-Cao/b88535ea9368753c91967bb7e997c06b1ac6aaec) |
 | Language Model Unalignment: Parametric Red-Teaming to Expose Hidden Harms and Biases | [Link](https://arxiv.org/abs/2310.14303) |
 | Large Language Model Unlearning | [Link](https://arxiv.org/pdf/2310.10683) |
+| LLM Hypnosis: Exploiting User Feedback for Unauthorized Knowledge Injection to All Users | [Link](https://arxiv.org/abs/2507.02850) |
 
 #### Model-Centric Attack
 
