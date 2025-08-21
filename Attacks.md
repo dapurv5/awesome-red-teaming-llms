@@ -143,6 +143,7 @@
 | Title | Link |
 |-------|------|
 | Fast Adversarial Attacks on Language Models In One GPU Minute | [Link](https://www.semanticscholar.org/paper/Fast-Adversarial-Attacks-on-Language-Models-In-One-Sadasivan-Saha/e519699816d358783f41d4bd50fd3465d9fa51bd) |
+| Strategic Deflection: Defending LLMs from Logit Manipulation | [Link](https://www.arxiv.org/abs/2507.22160) |
 
 #### Tokenizer Attack
 | Title | Link |
