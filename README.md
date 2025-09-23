@@ -49,6 +49,7 @@
 | Capability-Based Scaling Laws for LLM Red-Teaming | [Link](https://arxiv.org/abs/2505.20162) |
 | Automated Red Teaming with GOAT: the Generative Offensive Agent Tester | [Link](https://arxiv.org/abs/2410.01606) |
 | Strategize Globally, Adapt Locally: A Multi-Turn Red Teaming Agent with Dual-Level Learning | [Link](https://arxiv.org/abs/2504.01278) |
+| Capability-Based Scaling Laws for LLM Red-Teaming | [Link](https://arxiv.org/abs/2505.20162) |
 
 
 If you like our work, please consider citing. If you would like to add your work to our taxonomy please open a pull request.
