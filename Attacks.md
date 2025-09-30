@@ -190,7 +190,7 @@
 |-------|------|
 | The Philosopher's Stone: Trojaning Plugins of Large Language Models | [Link](https://www.semanticscholar.org/paper/The-Philosopher's-Stone%3A-Trojaning-Plugins-of-Large-Dong-Xue/ea12b4bff088bb3829e7277e516842e552a63be4) |
 | Privacy Backdoors: Stealing Data with Corrupted Pretrained Models | [Link](https://www.semanticscholar.org/paper/Privacy-Backdoors%3A-Stealing-Data-with-Corrupted-Feng-Tram%C3%A8r/fe44bd072c2325eaa750990d148b27e42b7eb1d2) |
-
+| TrojanStego: Your Language Model Can Secretly Be A Steganographic Privacy Leaking Agent | [Link](https://arxiv.org/abs/2505.20118) |
 
 ##### White-Box Jailbreak Attack
 | Title | Link |
