@@ -63,5 +63,6 @@
 |-------|----------|-------------------|------|-----------|
 | [AutoDefense: Multi-Agent LLM Defense against Jailbreak Attacks](https://arxiv.org/abs/2403.04783) | Multi-Agent Defense | A multi-agent framework that filters harmful responses from LLMs | ✅ | ✅ |
 | [Swiss Cheese Model for AI Safety: A Taxonomy and Reference Architecture for Multi-Layered Guardrails of Foundation Model Based Agents](https://arxiv.org/abs/2408.02205) | Multi-Layered Defense | A reference architecture inspired by the Swiss Cheese Model for designing multi-layered guardrails | ✅ | ✅ |
+| [LeakSealer: A Semisupervised Defense for LLMs Against Prompt Injection and Leakage Attacks](https://arxiv.org/abs/2508.00602) | Other Design Choices | A model-agnostic approach producing semantic fingerprints for adversarial prompts via clustering. | ❌ | ✅ |
 
 ---
