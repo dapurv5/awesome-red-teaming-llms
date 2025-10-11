@@ -18,11 +18,18 @@
   - [Training Attack](Attacks.md#training-attack)
   - [Compound Systems Attacks](CompoundSystemsAttacks.md)
 - [Defenses](Defenses.md)
+- [Evaluation & Benchmarks](#evaluation--benchmarks)
 - [Other Surveys](#other-surveys)
 - [Red-Teaming](#red-teaming)
 
 ## Red-Teaming Attack Taxonomy
 ![Taxonomy](fig/taxonomy.png)
+
+
+## Evaluation & Benchmarks
+| Title | Link |
+|-------|------|
+| Beyond Uniform Criteria: Scenario-Adaptive Multi-Dimensional Jailbreak Evaluation (SceneJailEval) | [Link](https://arxiv.org/abs/2508.06194) |
 
 
 ## Other Surveys

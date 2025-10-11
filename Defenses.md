@@ -45,6 +45,7 @@
 | [Representation noising effectively prevents harmful fine-tuning on LLMs](https://api.semanticscholar.org/CorpusID:269982864) | Fine-Tuning | Representation Noising to prevent against harmful fine-tuning | ✅ | ❌ |
 | [Differentially Private Fine-tuning of Language Models](https://api.semanticscholar.org/CorpusID:238743879) | Fine-Tuning | Differentially Private fine-tuning | ✅ | ❌ |
 | [Large Language Models Can Be Good Privacy Protection Learners](https://api.semanticscholar.org/CorpusID:263620236) | Fine-Tuning | Privacy Protection Language Models | ✅ | ❌ |
+| [Mitigating Privacy Risks in LLM Embeddings from Embedding Inversion](https://arxiv.org/abs/2411.05034) | Fine-Tuning | Eguard - transformer-based projection network to protect embeddings against inversion attacks | ✅ | ❌ |
 | [Defending Against Unforeseen Failure Modes with Latent Adversarial Training](https://api.semanticscholar.org/CorpusID:268297448) | Fine-Tuning | Latent Adversarial Training | ✅ | ❌ |
 | [From Shortcuts to Triggers: Backdoor Defense with Denoised PoE](https://api.semanticscholar.org/CorpusID:258866191) | Fine-Tuning | Denoised Product-of-Experts for protecting against various kinds of backdoor triggers | ✅ | ❌ |
 | [Detoxifying Large Language Models via Knowledge Editing](https://api.semanticscholar.org/CorpusID:268553537) | Fine-Tuning | Detoxifying by Knowledge Editing of Toxic Layers | ✅ | ❌ |

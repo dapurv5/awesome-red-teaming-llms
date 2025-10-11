@@ -167,6 +167,7 @@
 |-------|------|
 | Instructions as Backdoors: Backdoor Vulnerabilities of Instruction Tuning for Large Language Models | [Link](https://www.semanticscholar.org/paper/Instructions-as-Backdoors%3A-Backdoor-Vulnerabilities-Xu-Ma/82fe948f18ca0138d035f553286c5e4b712dbdbe) |
 | On the Exploitability of Instruction Tuning | [Link](https://www.semanticscholar.org/paper/On-the-Exploitability-of-Instruction-Tuning-Shu-Wang/f5fa0b3c2ecbf17ba922932432bed46a1447ed23) |
+| POISONPROMPT: Backdoor Attack on Prompt-Based Large Language Models | [Link](https://arxiv.org/abs/2310.12439) |
 | Poisoning Language Models During Instruction Tuning | [Link](https://www.semanticscholar.org/paper/Poisoning-Language-Models-During-Instruction-Tuning-Wan-Wallace/13e0f0bf9d6868d6825e13d8f9f25ee04285cd29) |
 | Learning to Poison Large Language Models During Instruction Tuning | [Link](https://www.semanticscholar.org/paper/Learning-to-Poison-Large-Language-Models-During-Qiang-Zhou/44dc41803f49f7511f674ecb091d7a5c69fd5db2) |
 | Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection | [Link](https://www.semanticscholar.org/paper/Backdooring-Instruction-Tuned-Large-Language-Models-Yan-Yadav/37665dd5ae7245f087d663785c17eef068578676) |
