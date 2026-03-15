@@ -125,6 +125,7 @@
 | Jailbreak and Guard Aligned Language Models with Only Few In-Context Demonstrations | [Link](https://www.semanticscholar.org/paper/Jailbreak-and-Guard-Aligned-Language-Models-with-Wei-Wang/6b135e922a0c673aeb0b05c5aeecdb6c794791c6) |
 | Many-shot jailbreaking | [Link](https://www.anthropic.com/research/many-shot-jailbreaking) |
 | Breaking ReAct Agents: Foot‑in‑the‑Door Attack Will Get You In | [Link](https://arxiv.org/abs/2410.16950) |
+|The Vulnerability of LLM Rankers to Prompt Injection Attacks | [Link](https://arxiv.org/pdf/2602.16752)|
 
 
 
