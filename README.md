@@ -46,6 +46,7 @@
 | Red-Teaming for Generative AI: Silver Bullet or Security Theater? | [Link](https://ojs.aaai.org/index.php/AIES/article/view/31647) |
 | Lessons From Red Teaming 100 Generative AI Products | [Link](https://arxiv.org/abs/2501.07238) |
 | Rainbow Teaming: Open-Ended Generation of Diverse Adversarial Prompts | [Link](https://arxiv.org/abs/2402.16822) |
+| Manifold of Failure: Behavioral Attraction Basins in Language Models | [Link](https://arxiv.org/pdf/2602.22291) |
 | Red-Teaming LLM Multi-Agent Systems via Communication Attacks | [Link](https://arxiv.org/abs/2502.14847) |
 | Red Teaming the Mind of the Machine: A Systematic Evaluation of Prompt Injection and Jailbreak Vulnerabilities in LLMs | [Link](https://arxiv.org/abs/2505.04806) |
 | Red-Teaming LLM Multi-Agent Systems via Communication Attacks | [Link](https://arxiv.org/abs/2502.14847) |
