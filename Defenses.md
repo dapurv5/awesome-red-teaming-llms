@@ -51,6 +51,7 @@
 | [Detoxifying Large Language Models via Knowledge Editing](https://api.semanticscholar.org/CorpusID:268553537) | Fine-Tuning | Detoxifying by Knowledge Editing of Toxic Layers | ✅ | ❌ |
 | [GradSafe: Detecting Jailbreak Prompts for LLMs via Safety-Critical Gradient Analysis](https://api.semanticscholar.org/CorpusID:267770418) | Inspection | Safety-critical parameter gradients analysis | ✅ | ❌ |
 | [Certifying LLM Safety against Adversarial Prompting](https://doi.org/10.48550/arXiv.2309.02705) | Certification | Erase-and-check framework | ✅ | ✅ |
+| [Provable Defense Framework for LLM Jailbreaks via Noise-Augumented Alignment](https://arxiv.org/pdf/2602.01587) | Certification | Certified Semantic Smoothing with Noise-Augmented Alignment Tuning | ✅ | ✅ |
 | [PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models](https://api.semanticscholar.org/CorpusID:267626957) | Certification | Isolate-then-Aggregate to protect against PoisonedRAGAttack | ✅ | ✅ |
 | [Quantitative Certification of Bias in Large Language Models](https://api.semanticscholar.org/CorpusID:270094829) | Certification | Bias Certification of LLMs | ✅ | ✅ |
 | [C-RAG: Certified Generation Risks for Retrieval-Augmented Language Models](https://arxiv.org/abs/2402.03181) | Certification | Framework providing provable guarantees on generation risks in RAG models | ✅ | ✅ |
