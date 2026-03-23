@@ -13,6 +13,7 @@ The difference is better spelled out here. We plan to incorporate this distincti
 | Watch out for your agents! investigating backdoor threats to llm-based agents | [Link](https://arxiv.org/abs/2402.11208) |
 | A trembling house of cards? mapping adversarial attacks against language agents | [Link](https://arxiv.org/abs/2402.10196) |
 | Multiagent collaboration attack: Investigating adversarial attacks in large language model collaborations via debate | [Link](https://aclanthology.org/2024.findings-emnlp.407/) |
+| Bypassing AI Control Protocols via Agent-as-a-Proxy Attacks | [Link](https://arxiv.org/abs/2602.05066) |
 
 
 
