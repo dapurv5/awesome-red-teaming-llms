@@ -162,6 +162,7 @@
 |-------|------|
 | Universal Jailbreak Backdoors from Poisoned Human Feedback | [Link](https://www.semanticscholar.org/paper/Universal-Jailbreak-Backdoors-from-Poisoned-Human-Rando-Tram%C3%A8r/90de1938a64d117d61b9e7149d2981df49b81433) |
 | Best-of-Venom: Attacking RLHF by Injecting Poisoned Preference Data | [Link](https://www.semanticscholar.org/paper/Best-of-Venom%3A-Attacking-RLHF-by-Injecting-Poisoned-Baumg%C3%A4rtner-Gao/521c2905e667ad6d2162ac369cf3f85d70e0f477) |
+| Capability-Oriented Training Induced Alignment Risk | [Link](https://arxiv.org/abs/2602.12124) |
 
 ##### Harmful Instruction Tuning Attack
 | Title | Link |

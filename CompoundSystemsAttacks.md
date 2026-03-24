@@ -21,3 +21,8 @@ The difference is better spelled out here. We plan to incorporate this distincti
 | Title | Link |
 |-------|------|
 |  Llm agents can autonomously hack websites | [Link](https://arxiv.org/abs/2402.06664) |
+
+#### Defenses for Compound Systems / CUAs
+| Title | Link |
+|-------|------|
+| SafePred: A Predictive Guardrail for Computer-Using Agents via World Models | [Link](https://arxiv.org/abs/2602.01725) |
