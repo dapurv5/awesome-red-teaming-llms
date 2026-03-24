@@ -30,6 +30,7 @@
 | Title | Link |
 |-------|------|
 | Beyond Uniform Criteria: Scenario-Adaptive Multi-Dimensional Jailbreak Evaluation (SceneJailEval) | [Link](https://arxiv.org/abs/2508.06194) |
+| NESSiE: The Necessary Safety Benchmark -- Identifying Errors that should not Exist | [Link](https://arxiv.org/abs/2602.16756) |
 
 
 ## Other Surveys
