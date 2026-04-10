@@ -5,6 +5,7 @@
 |-------|----------|-------------------|------|-----------|
 | [OpenAI Moderation Endpoint](https://platform.openai.com/docs/guides/moderation/overview) | Guardrail | OpenAI Moderations Endpoint | ❌ | ✅ |
 | [A New Generation of Perspective API: Efficient Multilingual Character-level Transformers](https://api.semanticscholar.org/CorpusID:247058801) | Guardrail | Perspective API's Toxicity API | ❌ | ✅ |
+| [ToolSafe: Enhancing Tool Invocation Safety of LLM-based Agents via Proactive Step-level Guardrail and Feedback](https://arxiv.org/abs/2601.10156) | Guardrail | Step-level Guardrail for Tool Use Agent | ✅ | ✅ |
 | [Llama Guard: LLM-based Input-Output Safeguard for Human-AI Conversations](https://api.semanticscholar.org/CorpusID:266174345) | Guardrail | Llama Guard | ✅ | ✅ |
 | [Guardrails AI: Adding guardrails to large language models.](https://github.com/guardrails-ai/guardrails) | Guardrail | Guardrails AI Validators | ✅ | ✅ |
 | [NeMo Guardrails: A Toolkit for Controllable and Safe LLM Applications with Programmable Rails](https://api.semanticscholar.org/CorpusID:264146531) | Guardrail | NVIDIA Nemo Guardrail | ✅ | ✅ |
