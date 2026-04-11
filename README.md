@@ -59,6 +59,7 @@
 | Automated Red Teaming with GOAT: the Generative Offensive Agent Tester | [Link](https://arxiv.org/abs/2410.01606) |
 | Strategize Globally, Adapt Locally: A Multi-Turn Red Teaming Agent with Dual-Level Learning | [Link](https://arxiv.org/abs/2504.01278) |
 | Bypassing AI Control Protocols via Agent-as-a-Proxy Attacks | [Link](https://arxiv.org/abs/2602.05066) |
+| AJAR: Adaptive Jailbreak Architecture for Red-teaming | [Link](https://arxiv.org/abs/2601.10971) |
 
 
 If you like our work, please consider citing. If you would like to add your work to our taxonomy please open a pull request.
