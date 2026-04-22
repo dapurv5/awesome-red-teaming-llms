@@ -29,6 +29,7 @@
 ## Evaluation & Benchmarks
 | Title | Link |
 |-------|------|
+| ATBench: A Diverse and Realistic Agent Trajectory Benchmark for Safety Evaluation and Diagnosis | [Link](https://arxiv.org/abs/2604.02022) |
 | Beyond Uniform Criteria: Scenario-Adaptive Multi-Dimensional Jailbreak Evaluation (SceneJailEval) | [Link](https://arxiv.org/abs/2508.06194) |
 | NESSiE: The Necessary Safety Benchmark -- Identifying Errors that should not Exist | [Link](https://arxiv.org/abs/2602.16756) |
 
