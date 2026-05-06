@@ -139,6 +139,7 @@
 | Open the Pandora's Box of LLMs: Jailbreaking LLMs through Representation Engineering | [Link](https://www.semanticscholar.org/paper/Open-the-Pandora's-Box-of-LLMs%3A-Jailbreaking-LLMs-Li-Zheng/b843fd79f0ddfd1a3e5ff3bd182715429e28aa35) |
 | Weak-to-Strong Jailbreaking on Large Language Models | [Link](https://www.semanticscholar.org/paper/Weak-to-Strong-Jailbreaking-on-Large-Language-Zhao-Yang/88d59e31575f5b3dd88a2c2033b55f628c2adbc9) |
 | Soft Prompt Threats: Attacking Safety Alignment and Unlearning in Open-Source LLMs through the Embedding Space | [Link](https://www.semanticscholar.org/paper/Soft-Prompt-Threats%3A-Attacking-Safety-Alignment-and-Schwinn-Dobre/9a7187386eb6ea93d41d7e2baa88accedc702fc2) |
+| Jailbreaking LLMs' Safeguard with Universal Magic Words for Text Embedding Models | [Link](https://arxiv.org/abs/2501.18280) |
 
 #### Decoding Attack
 | Title | Link |
