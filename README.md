@@ -27,12 +27,12 @@
 
 
 ## Evaluation & Benchmarks
-| Title | Link |
-|-------|------|
+| Title                                                                                                        | Link                                                                                              |
+| ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
 | SoK: Systematizing LLM Prompt Security: Taxonomies, Datasets, and Unified Evaluation of Attacks and Defenses | [Paper](https://arxiv.org/abs/2510.15476) / [Code](https://github.com/datasec-lab/PromptSecurity) |
-| ATBench: A Diverse and Realistic Agent Trajectory Benchmark for Safety Evaluation and Diagnosis | [Link](https://arxiv.org/abs/2604.02022) |
-| Beyond Uniform Criteria: Scenario-Adaptive Multi-Dimensional Jailbreak Evaluation (SceneJailEval) | [Link](https://arxiv.org/abs/2508.06194) |
-| NESSiE: The Necessary Safety Benchmark -- Identifying Errors that should not Exist | [Link](https://arxiv.org/abs/2602.16756) |
+| ATBench: A Diverse and Realistic Agent Trajectory Benchmark for Safety Evaluation and Diagnosis              | [Link](https://arxiv.org/abs/2604.02022)                                                          |
+| Beyond Uniform Criteria: Scenario-Adaptive Multi-Dimensional Jailbreak Evaluation (SceneJailEval)            | [Link](https://arxiv.org/abs/2508.06194)                                                          |
+| NESSiE: The Necessary Safety Benchmark -- Identifying Errors that should not Exist                           | [Link](https://arxiv.org/abs/2602.16756)                                                          |
 
 
 ## Other Surveys
